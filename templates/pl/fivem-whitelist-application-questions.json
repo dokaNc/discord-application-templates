@@ -1,0 +1,100 @@
+{
+  "title": "Pytania na WL FiveM: 53 pytania do podania na whitelistę GTA RP",
+  "language": "pl",
+  "source": "https://toscio.com/pl/poradniki/pytania-whitelist-fivem-gta-rp/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Podstawy OOC",
+      "items": [
+        "Ile masz lat (OOC)?",
+        "Jaka jest nazwa twojego konta FiveM albo Cfx.re?",
+        "Z jakiego kraju i strefy czasowej grasz?",
+        "Czy masz sprawny mikrofon?",
+        "Czy przeczytałeś cały regulamin serwera?",
+        "Skąd wiesz o naszym serwerze?",
+        "Czy miałeś kiedyś bana na serwerze FiveM? Jeśli tak, za co?",
+        "Czy streamujesz albo nagrywasz swoje RP? Gdzie?"
+      ]
+    },
+    {
+      "title": "Doświadczenie w RP",
+      "items": [
+        "Od jak dawna grasz w RP?",
+        "Na jakich serwerach RP grałeś i jak długo?",
+        "Jakie RP lubisz najbardziej: cywilne, przestępcze, policyjne, EMS czy biznesowe?",
+        "Jaki był twój najlepszy moment w RP i dlaczego?",
+        "Co według ciebie sprawia, że akcja RP jest dobra?",
+        "Dlaczego chcesz grać właśnie na naszym serwerze, a nie na innym?",
+        "Czym jest dla ciebie poważne RP?",
+        "Czy grałeś kiedyś we frakcji z whitelistą, np. w policji, EMS albo organizacji przestępczej?"
+      ]
+    },
+    {
+      "title": "Postać i jej historia",
+      "items": [
+        "Jak nazywa się twoja postać i ile ma lat?",
+        "Gdzie twoja postać się urodziła i dorastała?",
+        "Dlaczego twoja postać przyjechała do Los Santos?",
+        "Napisz historię swojej postaci, minimum 150 słów.",
+        "Jakie są główne cechy charakteru twojej postaci?",
+        "Jakie są wady i lęki twojej postaci?",
+        "Jakie są krótko- i długoterminowe cele twojej postaci?",
+        "Jakiej pracy twoja postać poszuka najpierw?",
+        "Czego twoja postać nigdy by nie zrobiła, nawet za pieniądze?",
+        "Kim są najważniejsze osoby w życiu twojej postaci?",
+        "Jak widzisz rozwój swojej postaci w najbliższych miesiącach?"
+      ]
+    },
+    {
+      "title": "Zasady i pojęcia RP",
+      "items": [
+        "Co to jest RDM? Podaj przykład.",
+        "Co to jest VDM?",
+        "Co to jest MG (metagaming)? Podaj przykład.",
+        "Co to jest PG (powergaming)?",
+        "Co oznacza FailRP?",
+        "Co to jest FearRP, czyli strach o życie postaci?",
+        "Co to jest combat logging i dlaczego jest zakazany?",
+        "Czym różni się OOC od IC?",
+        "Kiedy wolno wyjść z postaci w trakcie akcji?",
+        "Co to jest BW i co twoja postać pamięta po BW?",
+        "Co to jest CK i kto o nim decyduje na naszym serwerze?"
+      ]
+    },
+    {
+      "title": "Sytuacje w postaci",
+      "items": [
+        "Dwie uzbrojone osoby trzymają twoją postać na muszce. Co robi twoja postać?",
+        "W trakcie akcji inny gracz zabija cię bez żadnego powodu RP. Co robisz?",
+        "Kumpel pisze ci na Discordzie, gdzie ukrywa się wroga organizacja. Czy twoja postać może użyć tej informacji?",
+        "Gra crashuje ci w środku pościgu z policją. Co robisz po powrocie na serwer?",
+        "Twoja postać trafia w BW i budzi się w szpitalu. Co pamięta i gdzie może iść?",
+        "Policjant zatrzymuje twoją postać za przekroczenie prędkości. Napisz kilka pierwszych linijek tej akcji.",
+        "Gracz wrzeszczy OOC obelgi na voice’ie w grze. Jak reagujesz?",
+        "Twoja postać jako cywil wchodzi do sklepu w trakcie napadu. Co robi?",
+        "Nowy gracz jest zagubiony i zadaje w grze pytania OOC. Jak mu pomożesz, nie psując immersji?",
+        "Przegrywasz długą akcję, w którą włożyłeś dużo czasu. Jak reagujesz?"
+      ]
+    },
+    {
+      "title": "Pytania pod twój serwer",
+      "items": [
+        "Która frakcja z whitelistą cię interesuje, jeśli w ogóle?",
+        "Planujesz zacząć od RP legalnego czy nielegalnego?",
+        "Czy znasz już graczy z naszego serwera?",
+        "Ile godzin w tygodniu planujesz grać?",
+        "Czy jest coś jeszcze, o czym nasza administracja powinna wiedzieć?"
+      ]
+    },
+    {
+      "title": "Krótka wersja na 5 pytań",
+      "items": [
+        "Ile masz lat (OOC)?",
+        "Jak nazywa się twoja postać (imię i nazwisko)?",
+        "Jakie masz doświadczenie w RP?",
+        "Jaka jest historia twojej postaci?",
+        "Co oznaczają RDM, MG i PG?"
+      ]
+    }
+  ]
+}

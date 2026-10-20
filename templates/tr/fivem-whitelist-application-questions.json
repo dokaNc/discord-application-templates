@@ -1,0 +1,100 @@
+{
+  "title": "FiveM Whitelist Soruları: GTA RP Sunucuları İçin 53 Soru",
+  "language": "tr",
+  "source": "https://toscio.com/tr/rehberler/fivem-whitelist-basvuru-sorulari/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "OOC temel bilgiler",
+      "items": [
+        "Kaç yaşındasın (OOC)?",
+        "FiveM ya da Cfx.re hesap adın ne?",
+        "Hangi ülkedesin ve saat dilimin ne?",
+        "Çalışan bir mikrofonun var mı?",
+        "Sunucu kurallarının tamamını okudun mu?",
+        "Sunucumuzu nereden duydun?",
+        "Hiç bir FiveM sunucusundan ban yedin mi? Yediysen neden?",
+        "RP'ni yayınlıyor ya da kaydediyor musun? Nerede?"
+      ]
+    },
+    {
+      "title": "RP deneyimi",
+      "items": [
+        "Ne zamandır rol yapıyorsun?",
+        "Hangi RP sunucularında, ne kadar süre oynadın?",
+        "En çok ne tür RP seviyorsun: sivil, illegal, polis, EMS ya da iş/esnaf?",
+        "Şimdiye kadarki en sevdiğin RP anı ne ve neden?",
+        "Sence iyi bir RP sahnesini ne iyi yapar?",
+        "Neden başka bir sunucu değil de bizim şehrimizde oynamak istiyorsun?",
+        "Ciddi RP senin için ne demek?",
+        "Hiç polis, EMS ya da çete gibi whitelist'li bir meslekte oynadın mı?"
+      ]
+    },
+    {
+      "title": "Karakter ve hikâye",
+      "items": [
+        "Karakterinin tam adı ve yaşı ne?",
+        "Karakterin nerede doğup büyüdü?",
+        "Karakterin neden Los Santos'a geldi?",
+        "Karakterinin hikâyesini en az 150 kelimeyle yaz.",
+        "Karakterinin temel kişilik özellikleri neler?",
+        "Karakterinin kusurları ve korkuları neler?",
+        "Karakterinin kısa ve uzun vadeli hedefleri neler?",
+        "Karakterin ilk olarak hangi işi arar?",
+        "Karakterinin para için bile asla yapmayacağı şey ne?",
+        "Karakterinin hayatındaki en önemli insanlar kimler?",
+        "Önümüzdeki birkaç ayda karakterini nasıl bir gelişim içinde görüyorsun?"
+      ]
+    },
+    {
+      "title": "Kurallar ve RP terimleri",
+      "items": [
+        "RDM ne demek? Bir örnek ver.",
+        "VDM ne demek?",
+        "Yeni Hayat Kuralını (NLR) kendi cümlelerinle açıkla.",
+        "MG (metagaming) nedir? Bir örnek ver.",
+        "PG (powergaming) nedir?",
+        "FailRP ne demek?",
+        "Korku RP'si (fear RP, can değeri) nedir?",
+        "Combat log nedir ve neden yasak?",
+        "OOC ile IC arasındaki fark ne?",
+        "Bir sahne sırasında OOC'ye geçmek ne zaman kabul edilebilir?",
+        "Karakter ölümü (CK) nedir ve sunucumuzda buna kim karar verir?"
+      ]
+    },
+    {
+      "title": "IC senaryolar",
+      "items": [
+        "Silahlı iki kişi karakterine silah doğrultuyor. Karakterin ne yapar?",
+        "Bir sahne sırasında başka bir oyuncu seni hiçbir RP sebebi olmadan öldürüyor. Ne yaparsın?",
+        "Bir arkadaşın Discord'dan rakip çetenin nerede saklandığını söylüyor. Karakterin bu bilgiyi kullanabilir mi?",
+        "Polis kovalamacasının ortasında oyunun çöküyor. Tekrar bağlandığında ne yaparsın?",
+        "Karakterin bayılıyor ve hastanede yeniden doğuyor. Neyi hatırlar, nereye gidebilir?",
+        "Bir polis memuru karakterini hız yaptığı için kenara çekiyor. Sahnenin ilk birkaç satırını yaz.",
+        "Bir oyuncu yakın sesli sohbette OOC hakaretler savuruyor. Nasıl tepki verirsin?",
+        "Karakterin sivil olarak, devam eden bir market soygununun içine giriyor. Ne yapar?",
+        "Yeni bir oyuncu kaybolmuş ve oyunda OOC sorular soruyor. Atmosferi bozmadan ona nasıl yardım edersin?",
+        "Çok emek verdiğin uzun bir sahneyi kaybediyorsun. Nasıl tepki verirsin?"
+      ]
+    },
+    {
+      "title": "Sunucuya özel sorular",
+      "items": [
+        "İlgilendiğin whitelist'li bir meslek var mı, varsa hangisi?",
+        "Legal mi illegal mi başlamayı düşünüyorsun?",
+        "Sunucumuzda tanıdığın oyuncular var mı?",
+        "Haftada kaç saat oynamayı düşünüyorsun?",
+        "Yetkililerimizin senin hakkında bilmesi gereken başka bir şey var mı?"
+      ]
+    },
+    {
+      "title": "5 soruluk kısa versiyon",
+      "items": [
+        "Kaç yaşındasın (OOC)?",
+        "Karakterinin tam adı ne?",
+        "RP deneyimin ne?",
+        "Karakterinin hikâyesi ne?",
+        "MG ve PG nedir?"
+      ]
+    }
+  ]
+}

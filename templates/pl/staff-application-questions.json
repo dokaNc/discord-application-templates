@@ -1,0 +1,110 @@
+{
+  "title": "Podanie na administrację Discord: 58 pytań do skopiowania",
+  "language": "pl",
+  "source": "https://toscio.com/pl/poradniki/pytania-podanie-na-administracje-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "O kandydacie",
+      "items": [
+        "Ile masz lat?",
+        "Z jakiego kraju i strefy czasowej jesteś?",
+        "Od jak dawna jesteś na naszym serwerze?",
+        "Na których kanałach jesteś najbardziej aktywny?",
+        "Jakimi językami posługujesz się płynnie?",
+        "Opowiedz trochę o sobie poza Discordem.",
+        "Jak opisaliby cię znajomi w trzech słowach?",
+        "Jak administracja i członkowie mają się do ciebie zwracać?"
+      ]
+    },
+    {
+      "title": "Doświadczenie w moderacji",
+      "items": [
+        "Czy byłeś już w administracji na jakimś serwerze Discord? Na jakim i na jakiej randze?",
+        "Ilu mniej więcej członków miały te serwery?",
+        "Dlaczego odszedłeś z poprzedniej administracji?",
+        "Z jakich botów i narzędzi do moderacji korzystałeś?",
+        "Czym różnią się timeout, kick i ban i kiedy użyjesz każdego z nich?",
+        "Czy konfigurowałeś kiedyś reguły AutoModa albo filtry słów?",
+        "Jaka była najtrudniejsza sytuacja, którą ogarniałeś jako moderator, i czego cię nauczyła?",
+        "Czy dostałeś kiedyś warna, mute’a albo bana na jakimś serwerze? Co się stało?",
+        "Czy obsługiwałeś już tickety albo zgłoszenia od członków?"
+      ]
+    },
+    {
+      "title": "Motywacja i dopasowanie",
+      "items": [
+        "Dlaczego chcesz dołączyć do naszej administracji?",
+        "Dlaczego mamy wybrać właśnie ciebie, a nie innych kandydatów?",
+        "Na czym według ciebie polega praca moderatora?",
+        "Co ci się podoba w tym, jak prowadzony jest serwer, a co byś poprawił?",
+        "Jak reagujesz, gdy ktoś krytykuje twoją decyzję?",
+        "Jak według ciebie wygląda zdrowa społeczność?",
+        "Co zrobiłbyś w pierwszym tygodniu w administracji?"
+      ]
+    },
+    {
+      "title": "Pytania sytuacyjne",
+      "items": [
+        "Dwóch członków kłóci się na czacie publicznym i robi się osobiście. Co robisz, krok po kroku?",
+        "Członek spamuje tą samą wiadomością na kilku kanałach. Jak to załatwiasz?",
+        "Twój dobry kumpel łamie regulamin serwera. Co robisz?",
+        "Członek zgłasza nękanie w DM, ale nie ma screenów. Jak postępujesz?",
+        "Widzisz, że ktoś inny z administracji nadużywa uprawnień. Co robisz?",
+        "Ktoś wrzuca drastyczne albo NSFW treści na kanał publiczny, a żadnego admina nie ma online. Co robisz najpierw?",
+        "Członek pisze na czacie, że ma mniej niż 13 lat. Jak reagujesz?",
+        "Zaczyna się raid: dziesiątki nowych kont wchodzą i spamują naraz. Jakie są twoje pierwsze trzy kroki?",
+        "Członek nie zgadza się z twoim warnem i zaczyna cię publicznie obrażać. Jak odpowiadasz?",
+        "Ktoś wrzuca link z „darmowym Nitro”. Co robisz?",
+        "Członek pisze coś, co sugeruje, że może zrobić sobie krzywdę. Jak reagujesz?",
+        "Dwie osoby z administracji dały członkowi sprzeczne odpowiedzi. Jak to naprawiasz?",
+        "Popularny członek albo twórca łamie regulamin. Traktujesz go inaczej?",
+        "Orientujesz się, że ukarałeś nie tę osobę. Co robisz?",
+        "Członek ciągle balansuje na granicy regulaminu, ale wyraźnie go nie łamie. Jak to rozwiązujesz?"
+      ]
+    },
+    {
+      "title": "Regulamin i znajomość serwera",
+      "items": [
+        "Która zasada z naszego regulaminu jest według ciebie łamana najczęściej i dlaczego?",
+        "Wybierz jedną z naszych zasad i wyjaśnij, po co istnieje.",
+        "Co zrobisz w sytuacji, której regulamin nie obejmuje?",
+        "Wymień dwie rzeczy zakazane przez Wytyczne dla społeczności Discorda, które powinien znać każdy moderator.",
+        "Kiedy moderator powinien przekazać sprawę wyżej, zamiast działać sam?",
+        "Jak opiszesz karę, żeby reszta administracji mogła się nią dalej zająć?",
+        "Co oznacza dla ciebie „karz zachowanie, nie człowieka”?"
+      ]
+    },
+    {
+      "title": "Dostępność i zaangażowanie",
+      "items": [
+        "Ile godzin w tygodniu możesz poświęcić administracji?",
+        "W jakie dni i o jakich porach zwykle jesteś online?",
+        "Czy możesz od czasu do czasu wbić na spotkanie administracji na kanale głosowym?",
+        "Czy masz w najbliższym czasie egzaminy, wyjazdy albo pracę, przez które będziesz mniej aktywny?",
+        "Czy jesteś teraz w administracji na innych serwerach? Na ilu?",
+        "Czy dasz znać z wyprzedzeniem, jeśli będziesz potrzebować przerwy?"
+      ]
+    },
+    {
+      "title": "Helperzy i support",
+      "items": [
+        "Nowy członek pyta o coś, na co odpowiedź jest już na kanale z FAQ. Jak odpowiesz?",
+        "Jak przywitasz nowego członka, który wygląda na zagubionego?",
+        "Opisz w dwóch–trzech zdaniach pomysł na event na naszym serwerze.",
+        "Czy czujesz się swobodnie, rozmawiając na kanałach głosowych?",
+        "Jak wytłumaczysz problem techniczny komuś, kto się na tym nie zna?",
+        "Czy masz umiejętności, które przydadzą się poza moderacją, np. grafika, pisanie, boty albo montaż?"
+      ]
+    },
+    {
+      "title": "Krótka wersja na 5 pytań",
+      "items": [
+        "Ile masz lat?",
+        "Kiedy masz czas w tygodniu?",
+        "Jakie masz doświadczenie w moderacji?",
+        "Dlaczego chcesz dołączyć do administracji?",
+        "Dwóch członków kłóci się na czacie: co robisz?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Discord Server Rules Template: Rules to Copy & Paste",
+  "language": "en",
+  "source": "https://toscio.com/guides/discord-server-rules-template/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Copy and paste Discord rules: the short version",
+      "items": [
+        "Be respectful. No insults, harassment or personal attacks.",
+        "No hate speech, slurs or discrimination of any kind.",
+        "No spam: no message floods, walls of emojis or excessive pings.",
+        "No advertising or self-promotion without staff permission, including in DMs.",
+        "Keep content in the right channels and stay on topic.",
+        "No NSFW, gore or shocking content outside age-restricted channels.",
+        "Do not share anyone's personal information, including your own.",
+        "No impersonating members, staff or bots.",
+        "Follow Discord's Terms of Service and Community Guidelines.",
+        "Listen to the staff. If you disagree with a decision, message them privately."
+      ]
+    },
+    {
+      "title": "Full Discord server rules template",
+      "items": [
+        "Be respectful. Disagreeing is fine, attacking the person is not.",
+        "No hate speech, slurs or jokes targeting race, religion, gender, sexuality or disability.",
+        "No harassment, threats or bullying, in the server or in DMs with other members.",
+        "No spam: message floods, copypasta, excessive caps, emojis or mentions.",
+        "Don't ping staff or roles without a good reason.",
+        "No advertising: servers, social media, products or referral links, unless staff allow it.",
+        "Use each channel for its purpose. Read the channel topic before posting.",
+        "Use English in public channels, unless a channel says otherwise.",
+        "No NSFW, gore or shocking content, including in names, avatars and status.",
+        "No illegal content, piracy, cheats or account selling.",
+        "No scams, phishing links or fake giveaways. Report them to the staff.",
+        "Don't share personal information: real names, addresses, photos or accounts, yours or anyone else's.",
+        "No doxxing, raiding or organizing attacks against other servers.",
+        "No impersonating members, staff, bots or public figures.",
+        "Keep usernames and nicknames readable and appropriate.",
+        "No alt accounts to dodge a punishment. Ban evasion leads to a permanent ban.",
+        "Don't argue about a moderation decision in public. Contact the staff privately.",
+        "Follow Discord's Terms of Service (discord.com/terms) and Community Guidelines (discord.com/guidelines).",
+        "Staff have the final say, including on situations these rules don't list.",
+        "Rules can change. It is your job to check them from time to time."
+      ]
+    },
+    {
+      "title": "Voice chat rules",
+      "items": [
+        "Respect whoever is talking. Don't talk over people or interrupt on purpose.",
+        "No earrape: loud noises, soundboards or music at high volume.",
+        "Use push-to-talk if your microphone picks up background noise.",
+        "No voice changers or soundboards unless the channel allows it.",
+        "Don't record or stream others without their consent.",
+        "Don't hop between channels to disrupt conversations.",
+        "Music bots stay in the music channels.",
+        "The same rules apply in voice as in text: no hate speech, harassment or NSFW."
+      ]
+    },
+    {
+      "title": "Discord moderator rules for your staff",
+      "items": [
+        "Stay calm and polite, even when a member is not.",
+        "Use the lightest action that solves the problem: a warning before a timeout, a timeout before a ban.",
+        "Log every warning, timeout, kick and ban in the staff log, with the reason.",
+        "Never punish someone for disagreeing with you, only for breaking a rule.",
+        "Treat friends, popular members and other staff like everyone else.",
+        "Don't moderate a conflict you are part of. Ask another staff member.",
+        "Handle arguments about decisions in private, never in public channels.",
+        "Escalate to an admin when you are unsure, or before any permanent ban.",
+        "Don't use staff permissions for anything other than moderation.",
+        "Never share staff discussions, logs or reports outside the staff team.",
+        "Tell the team in advance when you need a break.",
+        "Admit mistakes. If you punished the wrong person, fix it and apologize."
+      ]
+    },
+    {
+      "title": "Roleplay and FiveM server rules",
+      "items": [
+        "No RDM (random deathmatch): don't attack or kill another player without a roleplay reason.",
+        "No VDM (vehicle deathmatch): don't use a vehicle as a weapon without a roleplay reason.",
+        "NLR (new life rule): after your character is downed and respawns, forget the events that led to it.",
+        "No metagaming: don't use information your character couldn't know, such as a stream or Discord.",
+        "No powergaming: don't force actions on others or do things that are impossible in real life.",
+        "Value your life (Fear RP): act as if your character's life matters when threatened.",
+        "No combat logging: don't disconnect or leave to avoid a roleplay situation.",
+        "Stay in character in game. Keep out-of-character talk to the OOC channels.",
+        "No fail RP: don't break immersion with behavior your character wouldn't have.",
+        "No exploiting bugs, mods or cheats. Report bugs to the staff.",
+        "Respect the safe zones (hospital, police station, spawn) set by the server.",
+        "Report rule breaks with a clip after the scene, not in the middle of it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Candidature staff Discord : 58 questions à copier-coller",
+  "language": "fr",
+  "source": "https://toscio.com/fr/guides/questions-candidature-staff-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Le candidat",
+      "items": [
+        "Quel âge as-tu ?",
+        "Dans quel fuseau horaire es-tu ?",
+        "Depuis combien de temps es-tu sur le serveur ?",
+        "Dans quels salons es-tu le plus actif ?",
+        "Quelles langues parles-tu couramment ?",
+        "Parle-nous un peu de toi en dehors de Discord.",
+        "Comment tes potes te décriraient en trois mots ?",
+        "Comment veux-tu que le staff et les membres t’appellent ?"
+      ]
+    },
+    {
+      "title": "Expérience de modération",
+      "items": [
+        "As-tu déjà été staff sur un serveur Discord ? Lesquels, et à quel poste ?",
+        "Combien de membres avaient ces serveurs, à peu près ?",
+        "Pourquoi as-tu quitté tes anciens postes de staff ?",
+        "Quels bots ou outils de modération as-tu déjà utilisés ?",
+        "Quelle différence entre une exclusion temporaire, un kick et un ban ? Quand utiliser chacun ?",
+        "As-tu déjà configuré AutoMod ou des filtres de mots ?",
+        "Quelle est la situation la plus compliquée que tu as gérée en tant que modo, et qu’en as-tu retenu ?",
+        "As-tu déjà été warn, mute ou ban sur un serveur ? Que s’est-il passé ?",
+        "As-tu déjà traité des tickets ou des signalements de membres ?"
+      ]
+    },
+    {
+      "title": "Motivation",
+      "items": [
+        "Pourquoi veux-tu rejoindre notre staff ?",
+        "Pourquoi toi plutôt qu’un autre candidat ?",
+        "Avec tes mots, c’est quoi le rôle d’un modérateur ?",
+        "Qu’est-ce qui te plaît dans la gestion du serveur, et qu’est-ce que tu améliorerais ?",
+        "Comment réagis-tu quand on critique une de tes décisions ?",
+        "Pour toi, c’est quoi une communauté saine ?",
+        "Que ferais-tu pendant ta première semaine dans le staff ?"
+      ]
+    },
+    {
+      "title": "Mises en situation",
+      "items": [
+        "Deux membres s’embrouillent en public et ça devient personnel. Que fais-tu, étape par étape ?",
+        "Un membre spam le même message dans plusieurs salons. Comment gères-tu ?",
+        "Un de tes potes enfreint le règlement. Que fais-tu ?",
+        "Un membre te signale du harcèlement en MP, mais n’a aucune capture d’écran. Comment procèdes-tu ?",
+        "Tu remarques qu’un autre membre du staff abuse de ses permissions. Que fais-tu ?",
+        "Quelqu’un poste du contenu choquant ou NSFW dans un salon public et aucun admin n’est en ligne. Quelles sont tes premières actions ?",
+        "Un membre dit dans le chat qu’il a moins de 13 ans. Comment réagis-tu ?",
+        "Un raid commence : des dizaines de nouveaux comptes arrivent et spamment en même temps. Quelles sont tes trois premières actions ?",
+        "Un membre conteste ton warn et commence à t’insulter en public. Comment réponds-tu ?",
+        "Quelqu’un poste un lien qui promet du Nitro gratuit. Que fais-tu ?",
+        "Un membre écrit quelque chose qui laisse penser qu’il pourrait se faire du mal. Comment réagis-tu ?",
+        "Deux membres du staff ont donné des réponses contradictoires à un membre. Comment rattrapes-tu le coup ?",
+        "Un membre très connu ou un streamer enfreint une règle. Le traites-tu différemment ?",
+        "Tu te rends compte que tu as sanctionné la mauvaise personne. Que fais-tu ?",
+        "Un membre joue sans arrêt avec les limites d’une règle sans vraiment l’enfreindre. Comment gères-tu ?"
+      ]
+    },
+    {
+      "title": "Règlement et connaissance du serveur",
+      "items": [
+        "Selon toi, quelle règle du serveur est la plus souvent enfreinte, et pourquoi ?",
+        "Choisis une de nos règles et explique pourquoi elle existe.",
+        "Que fais-tu face à une situation que le règlement ne prévoit pas ?",
+        "Cite deux choses interdites par les règles de la communauté Discord que tout modo doit connaître.",
+        "Quand faut-il remonter un problème à un admin plutôt que d’agir seul ?",
+        "Comment notes-tu une sanction pour que le reste du staff puisse suivre ?",
+        "Pour toi, que veut dire « sanctionner le comportement, pas la personne » ?"
+      ]
+    },
+    {
+      "title": "Disponibilités et engagement",
+      "items": [
+        "Combien d’heures par semaine peux-tu consacrer au staff ?",
+        "Quels jours et à quelles heures es-tu généralement connecté ?",
+        "Peux-tu venir de temps en temps à une réunion staff en vocal ?",
+        "As-tu des exams, des vacances ou du boulot à venir qui vont réduire ton activité ?",
+        "Es-tu staff sur d’autres serveurs en ce moment ? Combien ?",
+        "Nous préviendras-tu à l’avance si tu as besoin d’une pause ?"
+      ]
+    },
+    {
+      "title": "Helpers, support et animation",
+      "items": [
+        "Un nouveau pose une question déjà traitée dans la FAQ. Comment lui réponds-tu ?",
+        "Comment accueillerais-tu un nouveau membre qui a l’air perdu ?",
+        "Propose une idée d’événement pour le serveur en deux ou trois phrases.",
+        "Es-tu à l’aise pour parler en vocal ?",
+        "Comment expliquerais-tu un problème technique à quelqu’un qui n’y connaît rien ?",
+        "As-tu des compétences utiles en dehors de la modération : graphisme, rédaction, bots, montage ?"
+      ]
+    },
+    {
+      "title": "Le modèle de candidature staff en 5 questions",
+      "items": [
+        "Quel âge as-tu ?",
+        "Tes disponibilités dans la semaine ?",
+        "Ton expérience de modération ?",
+        "Pourquoi veux-tu rejoindre le staff ?",
+        "Deux membres s’embrouillent : tu fais quoi ?"
+      ]
+    }
+  ]
+}

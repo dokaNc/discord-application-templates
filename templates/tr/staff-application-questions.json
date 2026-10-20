@@ -1,0 +1,110 @@
+{
+  "title": "Discord Yetkili Başvuru Soruları: Kopyala-Yapıştır 58 Soru",
+  "language": "tr",
+  "source": "https://toscio.com/tr/rehberler/discord-yetkili-basvuru-sorulari/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Aday hakkında",
+      "items": [
+        "Kaç yaşındasın?",
+        "Hangi saat dilimindesin? (Yurt dışındaysan belirt.)",
+        "Ne zamandır bu sunucudasın?",
+        "En çok hangi kanallarda aktifsin?",
+        "Akıcı konuştuğun diller hangileri?",
+        "Discord dışında biraz kendinden bahseder misin?",
+        "Arkadaşların seni üç kelimeyle nasıl anlatır?",
+        "Yetkililerin ve üyelerin sana nasıl hitap etmesini istersin?"
+      ]
+    },
+    {
+      "title": "Moderasyon deneyimi",
+      "items": [
+        "Daha önce bir Discord sunucusunda yetkili oldun mu? Hangilerinde ve hangi rütbedeydin?",
+        "O sunucular aşağı yukarı kaç üyeliydi?",
+        "Önceki yetkili görevlerini neden bıraktın?",
+        "Hangi moderasyon botlarını ya da araçlarını kullandın?",
+        "Zaman aşımı (timeout), atma (kick) ve yasaklama (ban) arasındaki fark ne, hangisini ne zaman kullanırsın?",
+        "Hiç AutoMod kuralı ya da kelime filtresi ayarladın mı?",
+        "Yetkiliyken karşılaştığın en zor durum neydi ve ondan ne öğrendin?",
+        "Hiç bir sunucuda uyarı, mute ya da ban yedin mi? Ne oldu?",
+        "Daha önce ticket ya da üye şikâyeti ilgilendin mi?"
+      ]
+    },
+    {
+      "title": "Motivasyon ve uyum",
+      "items": [
+        "Neden yetkili ekibimize katılmak istiyorsun?",
+        "Neden diğer adaylar yerine seni seçmeliyiz?",
+        "Sence bir moderatörün işi ne? Kendi cümlelerinle anlat.",
+        "Bu sunucunun yönetiminde sevdiğin bir şey ve geliştirmek istediğin bir şey ne?",
+        "Verdiğin bir kararı biri eleştirdiğinde nasıl tepki verirsin?",
+        "Sence sağlıklı bir topluluk nasıl görünür?",
+        "Yetkili olduğun ilk hafta neler yaparsın?"
+      ]
+    },
+    {
+      "title": "Senaryo soruları",
+      "items": [
+        "İki üye genel sohbette tartışıyor ve iş kişiselleşiyor. Adım adım ne yaparsın?",
+        "Bir üye aynı mesajı birkaç kanala spamlıyor. Nasıl halledersin?",
+        "Yakın bir arkadaşın sunucu kuralını çiğniyor. Ne yaparsın?",
+        "Bir üye DM'den taciz edildiğini söylüyor ama ekran görüntüsü yok. Nasıl ilerlersin?",
+        "Başka bir yetkilinin yetkisini kötüye kullandığını fark ediyorsun. Ne yaparsın?",
+        "Biri herkese açık bir kanala rahatsız edici ya da NSFW içerik atıyor ve hiçbir yönetici çevrim içi değil. İlk adımların ne olur?",
+        "Bir üye sohbette 13 yaşından küçük olduğunu söylüyor. Nasıl tepki verirsin?",
+        "Raid başladı: onlarca yeni hesap aynı anda girip spam atıyor. İlk üç hamlen ne olur?",
+        "Bir üye verdiğin uyarıya itiraz ediyor ve herkesin önünde sana hakaret etmeye başlıyor. Nasıl cevap verirsin?",
+        "Bir kullanıcı bedava Nitro vaat eden bir link atıyor. Ne yaparsın?",
+        "Bir üye kendine zarar verebileceğini düşündüren bir şey söylüyor. Nasıl tepki verirsin?",
+        "İki yetkili bir üyeye birbiriyle çelişen cevaplar vermiş. Bunu nasıl düzeltirsin?",
+        "Sevilen bir üye ya da bir yayıncı kural çiğniyor. Farklı mı davranırsın?",
+        "Yanlış kişiyi cezalandırdığını fark ediyorsun. Ne yaparsın?",
+        "Bir üye bir kuralı açıkça çiğnemeden sürekli sınırda geziniyor. Nasıl halledersin?"
+      ]
+    },
+    {
+      "title": "Kurallar ve sunucu bilgisi",
+      "items": [
+        "Sence kurallarımızdan en çok hangisi çiğneniyor ve neden?",
+        "Kurallarımızdan birini seç ve neden var olduğunu açıkla.",
+        "Kuralların kapsamadığı bir durumda ne yaparsın?",
+        "Discord Topluluk Kurallarının yasakladığı ve her moderatörün bilmesi gereken iki şey say.",
+        "Bir moderatör ne zaman tek başına hareket etmek yerine konuyu bir yöneticiye taşımalı?",
+        "Diğer yetkililer takip edebilsin diye bir cezayı nasıl kayda geçirirsin?",
+        "\"Kişiyi değil davranışı cezalandır\" senin için ne anlama geliyor?"
+      ]
+    },
+    {
+      "title": "Müsaitlik ve bağlılık",
+      "items": [
+        "Yetkili ekibine haftada kaç saat ayırabilirsin?",
+        "Genelde hangi gün ve saatlerde çevrim içisin?",
+        "Arada sırada sesli yetkili toplantılarına katılabilir misin?",
+        "Yakında aktifliğini düşürecek sınav, tatil ya da iş durumun var mı?",
+        "Şu an başka sunucularda yetkili misin? Kaç tanesinde?",
+        "Ara vermen gerekirse bize önceden haber verir misin?"
+      ]
+    },
+    {
+      "title": "Rehber ve destek rolleri",
+      "items": [
+        "Yeni bir üye SSS kanalında zaten cevabı olan bir soru soruyor. Nasıl cevap verirsin?",
+        "Ortamda kaybolmuş görünen yeni bir üyeyi nasıl karşılarsın?",
+        "Bu sunucu için iki üç cümleyle bir etkinlik fikri anlat.",
+        "Ses kanallarında konuşmak sana rahat geliyor mu?",
+        "Teknik bir sorunu teknik bilgisi olmayan birine nasıl anlatırsın?",
+        "Moderasyon dışında işe yarayabilecek tasarım, yazı, bot ya da video gibi becerilerin var mı?"
+      ]
+    },
+    {
+      "title": "5 soruluk kısa versiyon",
+      "items": [
+        "Kaç yaşındasın?",
+        "Haftada ne zamanlar müsaitsin?",
+        "Moderasyon deneyimin ne?",
+        "Neden yetkili ekibine katılmak istiyorsun?",
+        "İki üye sohbette kavga ediyor: ne yaparsın?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "title": "FiveM Whitelist Fragen: 53 Fragen für deinen GTA-RP-Server",
+  "language": "de",
+  "source": "https://toscio.com/de/ratgeber/fivem-whitelist-fragen/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "OOC-Grundlagen",
+      "items": [
+        "Wie alt bist du (OOC)?",
+        "Wie heißt dein FiveM- bzw. Cfx.re-Account?",
+        "In welchem Land und in welcher Zeitzone bist du?",
+        "Hast du ein funktionierendes Mikrofon?",
+        "Hast du das komplette Regelwerk gelesen?",
+        "Wie bist du auf unseren Server gekommen?",
+        "Wurdest du schon mal auf einem FiveM-Server gebannt? Wenn ja, warum?",
+        "Streamst oder nimmst du dein RP auf? Wo?"
+      ]
+    },
+    {
+      "title": "RP-Erfahrung",
+      "items": [
+        "Seit wann machst du Roleplay?",
+        "Auf welchen RP-Servern hast du gespielt, und wie lange?",
+        "Welche Art RP spielst du am liebsten: Zivi, Crime, Polizei, Rettungsdienst oder Business?",
+        "Was war bisher dein Lieblingsmoment im RP, und warum?",
+        "Was macht für dich eine gute RP-Szene aus?",
+        "Warum willst du auf unserem Server spielen und nicht auf einem anderen?",
+        "Was bedeutet für dich ernstes RP?",
+        "Hast du schon mal eine Whitelist-Fraktion gespielt, etwa Polizei, Rettungsdienst oder eine Gang?"
+      ]
+    },
+    {
+      "title": "Charakter und Hintergrundgeschichte",
+      "items": [
+        "Wie heißt dein Charakter mit vollem Namen, und wie alt ist er?",
+        "Wo ist dein Charakter geboren und aufgewachsen?",
+        "Warum ist dein Charakter nach Los Santos gekommen?",
+        "Schreib die Hintergrundgeschichte deines Charakters in mindestens 150 Wörtern.",
+        "Was sind die wichtigsten Charakterzüge deines Charakters?",
+        "Welche Schwächen und Ängste hat dein Charakter?",
+        "Was sind die kurz- und langfristigen Ziele deines Charakters?",
+        "Nach welchem Job würde sich dein Charakter als Erstes umschauen?",
+        "Was würde dein Charakter niemals tun, nicht mal für Geld?",
+        "Wer sind die wichtigsten Menschen im Leben deines Charakters?",
+        "Wie siehst du deinen Charakter sich in den nächsten Monaten entwickeln?"
+      ]
+    },
+    {
+      "title": "Regeln und RP-Begriffe",
+      "items": [
+        "Was bedeutet RDM? Nenn ein Beispiel.",
+        "Was bedeutet VDM?",
+        "Erklär die New Life Rule (NLR) in deinen eigenen Worten.",
+        "Was ist Metagaming? Nenn ein Beispiel.",
+        "Was ist Powergaming?",
+        "Was bedeutet FailRP?",
+        "Was ist Fear RP, auch Value of Life genannt?",
+        "Was ist Combat Logging, und warum ist es verboten?",
+        "Was ist der Unterschied zwischen OOC und IC?",
+        "Wann ist es okay, während einer Szene OOC zu gehen?",
+        "Was ist ein Charakter-Kill (CK), und wer entscheidet auf unserem Server darüber?"
+      ]
+    },
+    {
+      "title": "IC-Szenarien",
+      "items": [
+        "Zwei bewaffnete Leute halten deinen Charakter mit der Waffe in Schach. Was macht dein Charakter?",
+        "Mitten in einer Szene tötet dich ein anderer Spieler ohne RP-Grund. Was tust du?",
+        "Ein Kumpel erzählt dir auf Discord, wo sich eine verfeindete Gang versteckt. Darf dein Charakter diese Info nutzen?",
+        "Dein Spiel crasht mitten in einer Verfolgungsjagd mit der Polizei. Was machst du, wenn du wieder drin bist?",
+        "Dein Charakter wird niedergestreckt und respawnt im Krankenhaus. Woran erinnert er sich, und wohin darf er?",
+        "Ein Polizist hält deinen Charakter wegen zu schnellen Fahrens an. Schreib die ersten Zeilen der Szene.",
+        "Ein Spieler beleidigt im Proximity-Voice lautstark OOC. Wie reagierst du?",
+        "Dein Charakter läuft als Zivilist mitten in einen laufenden Ladenüberfall. Was macht er?",
+        "Ein neuer Spieler ist verloren und stellt ingame OOC-Fragen. Wie hilfst du, ohne die Immersion zu brechen?",
+        "Du verlierst eine lange Szene, in die du viel Zeit gesteckt hast. Wie reagierst du?"
+      ]
+    },
+    {
+      "title": "Serverspezifische Fragen",
+      "items": [
+        "Für welche Whitelist-Fraktion interessierst du dich, falls überhaupt?",
+        "Willst du mit legalem oder illegalem RP starten?",
+        "Kennst du schon Spieler auf unserem Server?",
+        "Wie viele Stunden pro Woche wirst du ungefähr spielen?",
+        "Gibt es noch etwas, das unser Team über dich wissen sollte?"
+      ]
+    },
+    {
+      "title": "Die Kurzversion mit 5 Fragen",
+      "items": [
+        "Wie alt bist du (OOC)?",
+        "Wie heißt dein Charakter mit vollem Namen?",
+        "Welche RP-Erfahrung hast du?",
+        "Wie sieht die Hintergrundgeschichte deines Charakters aus?",
+        "Was bedeuten RDM und NLR?"
+      ]
+    }
+  ]
+}

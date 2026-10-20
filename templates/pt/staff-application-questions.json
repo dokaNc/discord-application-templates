@@ -1,0 +1,110 @@
+{
+  "title": "Formulário de staff no Discord: 58 perguntas pra copiar e colar",
+  "language": "pt-BR",
+  "source": "https://toscio.com/pt/guias/perguntas-formulario-staff-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Sobre o candidato",
+      "items": [
+        "Quantos anos você tem?",
+        "Qual é o seu fuso horário?",
+        "Há quanto tempo você é membro deste servidor?",
+        "Em quais canais você é mais ativo?",
+        "Quais idiomas você fala bem?",
+        "Conta um pouco sobre você fora do Discord.",
+        "Como seus amigos te descreveriam em três palavras?",
+        "Como você prefere que a staff e os membros te chamem?"
+      ]
+    },
+    {
+      "title": "Experiência com moderação",
+      "items": [
+        "Você já foi staff em algum servidor do Discord? Quais, e qual era o seu cargo?",
+        "Mais ou menos quantos membros esses servidores tinham?",
+        "Por que você saiu das staffs anteriores?",
+        "Quais bots ou ferramentas de moderação você já usou?",
+        "Qual a diferença entre castigo, expulsão e ban, e quando você usaria cada um?",
+        "Você já configurou regras do AutoMod ou filtros de palavras?",
+        "Qual foi a situação mais difícil que você resolveu como moderador, e o que aprendeu com ela?",
+        "Você já levou advertência, mute ou ban em algum servidor? O que aconteceu?",
+        "Você já atendeu tickets de suporte ou denúncias de membros?"
+      ]
+    },
+    {
+      "title": "Motivação e perfil",
+      "items": [
+        "Por que você quer entrar para a nossa staff?",
+        "Por que a gente deveria escolher você e não outro candidato?",
+        "Com as suas palavras, qual é o trabalho de um moderador?",
+        "Uma coisa que você curte em como este servidor é gerenciado, e uma coisa que você melhoraria?",
+        "Como você reage quando alguém critica uma decisão sua?",
+        "Para você, como é uma comunidade saudável?",
+        "O que você faria na sua primeira semana como staff?"
+      ]
+    },
+    {
+      "title": "Perguntas de situação",
+      "items": [
+        "Dois membros estão brigando no chat geral e a coisa está ficando pessoal. O que você faz, passo a passo?",
+        "Um membro manda a mesma mensagem em vários canais (flood). Como você resolve?",
+        "Um amigo próximo seu quebra uma regra do servidor. O que você faz?",
+        "Um membro denuncia assédio no PV, mas não tem print. Como você age?",
+        "Você percebe outro staff abusando das permissões. O que você faz?",
+        "Alguém posta conteúdo chocante ou +18 num canal público e nenhum admin está online. Quais são suas primeiras ações?",
+        "Um membro comenta no chat que tem menos de 13 anos. Como você reage?",
+        "Começa um raid: dezenas de contas novas entram e floodam ao mesmo tempo. Quais são suas três primeiras ações?",
+        "Um membro discorda da sua advertência e começa a te xingar em público. Como você responde?",
+        "Um usuário posta um link prometendo Nitro grátis. O que você faz?",
+        "Um membro fala algo que dá a entender que pode se machucar. Como você reage?",
+        "Dois staffs deram respostas contraditórias para um membro. Como você resolve?",
+        "Um membro popular ou um criador de conteúdo quebra uma regra. Você age diferente?",
+        "Você percebe que puniu a pessoa errada. O que você faz?",
+        "Um membro fica testando o limite de uma regra sem quebrar ela de forma clara. Como você lida com isso?"
+      ]
+    },
+    {
+      "title": "Regras e conhecimento do servidor",
+      "items": [
+        "Qual das nossas regras você acha que é mais quebrada, e por quê?",
+        "Escolha uma das nossas regras e explique por que ela existe.",
+        "O que você faria numa situação que as regras não cobrem?",
+        "Cite duas coisas proibidas pelas Diretrizes da Comunidade do Discord que todo moderador deveria saber.",
+        "Quando um moderador deve chamar um admin em vez de agir sozinho?",
+        "Como você registraria uma punição para que o resto da staff consiga acompanhar?",
+        "O que “punir o comportamento, não a pessoa” significa para você?"
+      ]
+    },
+    {
+      "title": "Disponibilidade e compromisso",
+      "items": [
+        "Quantas horas por semana você consegue dedicar à staff?",
+        "Em quais dias e horários você costuma estar online?",
+        "Você consegue participar de uma reunião da staff em call de vez em quando?",
+        "Você tem provas, viagens ou trabalho chegando que vão diminuir sua atividade?",
+        "Você é staff em outros servidores agora? Em quantos?",
+        "Você avisa com antecedência se precisar dar um tempo?"
+      ]
+    },
+    {
+      "title": "Cargos de helper e suporte",
+      "items": [
+        "Um membro novo faz uma pergunta que já está respondida no canal de FAQ. Como você responde?",
+        "Como você receberia um membro novo que parece perdido?",
+        "Dê uma ideia de evento para este servidor em duas ou três frases.",
+        "Você fica à vontade falando em call?",
+        "Como você explicaria um problema técnico para alguém que não manja de tecnologia?",
+        "Você tem habilidades que podem ajudar além da moderação, como design, escrita, bots ou edição de vídeo?"
+      ]
+    },
+    {
+      "title": "A versão curta de 5 perguntas",
+      "items": [
+        "Quantos anos você tem?",
+        "Quando você está disponível durante a semana?",
+        "Qual é a sua experiência com moderação?",
+        "Por que você quer entrar para a staff?",
+        "Dois membros brigam no chat: o que você faz?"
+      ]
+    }
+  ]
+}

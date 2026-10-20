@@ -1,0 +1,110 @@
+{
+  "title": "Discord Staff & Mod Application Questions: 58 to Copy & Paste",
+  "language": "en",
+  "source": "https://toscio.com/guides/discord-staff-application-questions/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "About the applicant",
+      "items": [
+        "How old are you?",
+        "What is your time zone?",
+        "How long have you been a member of this server?",
+        "Which channels are you most active in?",
+        "What languages do you speak fluently?",
+        "Tell us a bit about yourself outside of Discord.",
+        "How would your friends describe you in three words?",
+        "What name do you prefer staff and members to use for you?"
+      ]
+    },
+    {
+      "title": "Moderation experience",
+      "items": [
+        "Have you been staff on a Discord server before? Which ones, and what was your role?",
+        "Roughly how many members did those servers have?",
+        "Why did you leave your previous staff positions?",
+        "Which moderation bots or tools have you used?",
+        "What is the difference between a timeout, a kick and a ban, and when would you use each?",
+        "Have you ever configured AutoMod rules or word filters?",
+        "What was the hardest situation you handled as a moderator, and what did you learn from it?",
+        "Have you ever been warned, muted or banned on a server? What happened?",
+        "Have you handled support tickets or member reports before?"
+      ]
+    },
+    {
+      "title": "Motivation and fit",
+      "items": [
+        "Why do you want to join our staff team?",
+        "Why should we choose you over other applicants?",
+        "In your own words, what is a moderator's job?",
+        "What is one thing you like about how this server is run, and one thing you would improve?",
+        "How do you react when someone criticizes a decision you made?",
+        "What does a healthy community look like to you?",
+        "What would you do in your first week as a staff member?"
+      ]
+    },
+    {
+      "title": "Moderator application questions: scenarios",
+      "items": [
+        "Two members are arguing in public chat and it is getting personal. What do you do, step by step?",
+        "A member spams the same message across several channels. How do you handle it?",
+        "A close friend of yours breaks a server rule. What do you do?",
+        "A member reports harassment in DMs but has no screenshots. How do you proceed?",
+        "You notice another staff member abusing their permissions. What do you do?",
+        "Someone posts shocking or NSFW content in a public channel and no admin is online. What are your first actions?",
+        "A member mentions in chat that they are under 13. How do you react?",
+        "A raid starts: dozens of new accounts join and spam at once. What are your first three actions?",
+        "A member disagrees with your warning and starts insulting you publicly. How do you respond?",
+        "A user posts a link promising free Nitro. What do you do?",
+        "A member says something that suggests they might hurt themselves. How do you react?",
+        "Two staff members gave a member contradictory answers. How do you fix it?",
+        "A popular member or content creator breaks a rule. Do you handle it differently?",
+        "You realize you punished the wrong person. What do you do?",
+        "A member keeps pushing the limits of a rule without clearly breaking it. How do you handle it?"
+      ]
+    },
+    {
+      "title": "Rules and server knowledge",
+      "items": [
+        "Which of our rules do you think is broken most often, and why?",
+        "Pick one of our rules and explain why it exists.",
+        "What would you do in a situation the rules do not cover?",
+        "Name two things Discord's Community Guidelines forbid that every moderator should know.",
+        "When should a moderator escalate to an admin instead of acting alone?",
+        "How would you write up a punishment so other staff can follow up on it?",
+        "What does “punish the behavior, not the person” mean to you?"
+      ]
+    },
+    {
+      "title": "Availability and commitment",
+      "items": [
+        "How many hours per week can you give to the staff team?",
+        "Which days and times are you usually online?",
+        "Can you join a staff meeting in voice from time to time?",
+        "Do you have exams, trips or work coming up that will reduce your activity?",
+        "Are you currently staff on other servers? How many?",
+        "Will you let us know in advance if you need a break?"
+      ]
+    },
+    {
+      "title": "Helper and support roles",
+      "items": [
+        "A new member asks a question already answered in the FAQ channel. How do you reply?",
+        "How would you welcome a new member who seems lost?",
+        "Pitch an event idea for this server in two or three sentences.",
+        "Are you comfortable speaking in voice channels?",
+        "How would you explain a technical problem to someone who is not technical?",
+        "Do you have skills that could help beyond moderation, like design, writing, bots or video?"
+      ]
+    },
+    {
+      "title": "Staff application template: the 5-question version",
+      "items": [
+        "How old are you?",
+        "When are you available each week?",
+        "What is your moderation experience?",
+        "Why do you want to join the staff?",
+        "Two members fight in chat: what do you do?"
+      ]
+    }
+  ]
+}

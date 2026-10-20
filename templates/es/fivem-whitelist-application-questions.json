@@ -1,0 +1,100 @@
+{
+  "title": "Preguntas para la whitelist de FiveM: 53 para servidores de rol GTA",
+  "language": "es",
+  "source": "https://toscio.com/es/guias/preguntas-whitelist-fivem/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Datos OOC",
+      "items": [
+        "¿Cuántos años tienes (OOC)?",
+        "¿Cuál es tu nombre de cuenta de FiveM o Cfx.re?",
+        "¿Desde qué país juegas y en qué zona horaria estás?",
+        "¿Tienes un micrófono que funcione?",
+        "¿Leíste todas las normas del servidor?",
+        "¿Cómo conociste nuestro servidor?",
+        "¿Alguna vez te banearon de un servidor de FiveM? Si es así, ¿por qué?",
+        "¿Haces streams o grabas tu rol? ¿Dónde?"
+      ]
+    },
+    {
+      "title": "Experiencia en rol",
+      "items": [
+        "¿Cuánto tiempo llevas haciendo rol?",
+        "¿En qué servidores de rol jugaste y durante cuánto tiempo?",
+        "¿Qué tipo de rol te gusta más: civil, ilegal, policía, EMS o negocios?",
+        "¿Cuál es tu mejor momento de rol hasta ahora y por qué?",
+        "Para ti, ¿qué hace que un rol sea bueno?",
+        "¿Por qué quieres jugar en nuestro servidor y no en otro?",
+        "¿Qué significa para ti el rol serio?",
+        "¿Alguna vez llevaste un trabajo con whitelist, como policía, EMS o una banda?"
+      ]
+    },
+    {
+      "title": "Personaje e historia",
+      "items": [
+        "¿Cuál es el nombre completo y la edad de tu personaje?",
+        "¿Dónde nació y se crio tu personaje?",
+        "¿Por qué llegó tu personaje a Los Santos?",
+        "Escribe la historia de tu personaje en al menos 150 palabras.",
+        "¿Cuáles son los principales rasgos de personalidad de tu personaje?",
+        "¿Cuáles son los defectos y los miedos de tu personaje?",
+        "¿Cuáles son los objetivos de tu personaje a corto y a largo plazo?",
+        "¿Qué trabajo buscaría primero tu personaje?",
+        "¿Qué no haría nunca tu personaje, ni siquiera por dinero?",
+        "¿Quiénes son las personas más importantes en la vida de tu personaje?",
+        "¿Cómo ves evolucionar a tu personaje en los próximos meses?"
+      ]
+    },
+    {
+      "title": "Normas y términos de rol",
+      "items": [
+        "¿Qué es el RDM? Pon un ejemplo.",
+        "¿Qué es el VDM?",
+        "Explica con tus palabras la NLR (o PK).",
+        "¿Qué es el MG? Pon un ejemplo.",
+        "¿Qué es el PG?",
+        "¿Qué significa hacer fail RP?",
+        "¿Qué es valorar la vida (fear RP)?",
+        "¿Qué es el combat log y por qué está prohibido?",
+        "¿Qué diferencia hay entre IC y OOC?",
+        "¿Cuándo está permitido salirse del personaje en mitad de un rol?",
+        "¿Qué es un CK y quién lo decide en nuestro servidor?"
+      ]
+    },
+    {
+      "title": "Casos prácticos en IC",
+      "items": [
+        "Dos personas armadas encañonan a tu personaje. ¿Qué hace tu personaje?",
+        "En mitad de un rol, otro jugador te mata sin motivo de rol. ¿Qué haces?",
+        "Un amigo te dice por Discord dónde se esconde una banda rival. ¿Puede tu personaje usar esa información?",
+        "Se te cierra el juego en mitad de una persecución policial. ¿Qué haces al volver a entrar?",
+        "Tu personaje cae y reaparece en el hospital. ¿Qué recuerda y adónde puede ir?",
+        "Un policía para a tu personaje por exceso de velocidad. Escribe las primeras líneas del rol.",
+        "Un jugador está insultando en OOC por el chat de voz de proximidad. ¿Cómo reaccionas?",
+        "Tu personaje, como civil, entra en una tienda en pleno atraco. ¿Qué hace?",
+        "Un jugador nuevo está perdido y hace preguntas OOC dentro del juego. ¿Cómo lo ayudas sin romper la inmersión?",
+        "Pierdes un rol largo en el que habías invertido mucho tiempo. ¿Cómo reaccionas?"
+      ]
+    },
+    {
+      "title": "Preguntas propias del servidor",
+      "items": [
+        "¿Te interesa algún trabajo con whitelist? ¿Cuál?",
+        "¿Piensas empezar con rol legal o ilegal?",
+        "¿Ya conoces a jugadores de nuestro servidor?",
+        "¿Cuántas horas a la semana piensas jugar?",
+        "¿Hay algo más que nuestro staff debería saber de ti?"
+      ]
+    },
+    {
+      "title": "La versión corta de 5 preguntas",
+      "items": [
+        "¿Cuántos años tienes (OOC)?",
+        "¿Cuál es el nombre y apellido de tu PJ?",
+        "¿Qué experiencia tienes en rol?",
+        "¿Cuál es la historia de tu personaje?",
+        "¿Qué significan MG, PG y RDM?"
+      ]
+    }
+  ]
+}

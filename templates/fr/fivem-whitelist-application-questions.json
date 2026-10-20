@@ -1,0 +1,91 @@
+{
+  "title": "Questions whitelist GTA RP : 53 questions pour ta WL FiveM",
+  "language": "fr",
+  "source": "https://toscio.com/fr/guides/questions-whitelist-gta-rp/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Les questions HRP",
+      "items": [
+        "Quel âge as-tu (HRP) ?",
+        "Quel est ton pseudo FiveM ou Steam ?",
+        "As-tu un micro qui fonctionne correctement ?",
+        "As-tu lu le règlement en entier ?",
+        "Comment as-tu connu le serveur ?",
+        "As-tu déjà été ban d’un serveur RP ? Si oui, pourquoi ?",
+        "Est-ce que tu streames ou enregistres ton RP ? Où ?",
+        "Combien d’heures par semaine penses-tu jouer ?"
+      ]
+    },
+    {
+      "title": "Ton parcours RP",
+      "items": [
+        "Depuis combien de temps fais-tu du RP ?",
+        "Sur quels serveurs as-tu joué, et combien de temps ?",
+        "Quel type de RP préfères-tu : légal, illégal, forces de l’ordre, EMS, entreprise ?",
+        "Raconte ta meilleure scène RP.",
+        "Pour toi, c’est quoi une bonne scène RP ?",
+        "Pourquoi notre serveur plutôt qu’un autre ?",
+        "Que veut dire « RP sérieux » pour toi ?",
+        "As-tu déjà joué un métier WL (LSPD, EMS, gang, orga) ?"
+      ]
+    },
+    {
+      "title": "Ton personnage et son background",
+      "items": [
+        "Nom, prénom et âge de ton personnage ?",
+        "Où ton personnage est-il né et a-t-il grandi ?",
+        "Pourquoi ton personnage débarque-t-il à Los Santos ?",
+        "Écris le background de ton personnage (150 mots minimum).",
+        "Quels sont ses principaux traits de caractère ?",
+        "Quels sont ses défauts et ses peurs ?",
+        "Quels sont ses objectifs à court et à long terme ?",
+        "Quel premier boulot va-t-il chercher en ville ?",
+        "Qu’est-ce qu’il ne ferait jamais, même pour de l’argent ?",
+        "Qui sont les personnes qui comptent dans sa vie ?",
+        "Comment vois-tu ton personnage évoluer dans les prochains mois ?"
+      ]
+    },
+    {
+      "title": "Le règlement et le vocabulaire RP",
+      "items": [
+        "Que signifient le FreeKill et le NoFear ?",
+        "C’est quoi le FreePunch ?",
+        "Qu’est-ce que le Carkill (ou VDM) ?",
+        "Explique le PowerGaming avec un exemple.",
+        "Explique le MetaGaming avec un exemple.",
+        "Qu’est-ce que le ForceRP ?",
+        "Qu’est-ce que le Pain RP ?",
+        "Qu’est-ce qu’un Revenge Kill ?",
+        "Explique la règle du coma (ou NLR) sur un serveur RP.",
+        "Quelle différence entre HRP et RP, et quand as-tu le droit de passer HRP ?",
+        "Pourquoi est-il interdit de se déconnecter en pleine scène ?",
+        "Qu’est-ce qu’une mort RP, et qui la valide sur notre serveur ?"
+      ]
+    },
+    {
+      "title": "Les mises en situation",
+      "items": [
+        "Tu te fais braquer par deux personnes armées. Que fait ton personnage ?",
+        "Un joueur te tue sans aucune raison RP. Que fais-tu ?",
+        "Un pote te dit sur Discord où se planque un gang rival. Ton perso peut-il utiliser l’info ?",
+        "Ton jeu crash en pleine course-poursuite avec la police. Que fais-tu en revenant ?",
+        "Tu te réveilles à l’hôpital après un coma. De quoi te souviens-tu, et où peux-tu aller ?",
+        "Un agent du LSPD t’arrête pour excès de vitesse. Écris les premières répliques de la scène.",
+        "Un joueur insulte tout le monde en HRP dans le vocal de proximité. Comment réagis-tu ?",
+        "Ton perso tombe sur un braquage de supérette en cours. Que fait-il ?",
+        "Un nouveau est perdu et pose des questions HRP en jeu. Comment l’aides-tu sans casser l’immersion ?",
+        "Tu perds une longue scène dans laquelle tu t’es beaucoup investi. Comment réagis-tu ?"
+      ]
+    },
+    {
+      "title": "Le modèle de WL en 5 questions",
+      "items": [
+        "Quel âge as-tu (HRP) ?",
+        "Nom et prénom de ton personnage ?",
+        "Ton expérience en RP ?",
+        "Le background de ton personnage ?",
+        "Que signifient le FreeKill et le NoFear ?"
+      ]
+    }
+  ]
+}
