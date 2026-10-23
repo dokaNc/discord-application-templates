@@ -1,6 +1,6 @@
 # Discord Ban Appeal Template: Questions, Examples & Replies
 
-A Discord ban appeal template to copy: 5 core questions, 15 more to pick from, reply messages for accepted and declined appeals, and how to review them fairly.
+A Discord ban appeal template to copy: 5 core questions, 15 more to pick from, replies for accepted and declined appeals, and how to review them fairly.
 
 Full guide, with tips and examples: https://toscio.com/guides/discord-ban-appeal-template/?utm_source=github&utm_medium=templates
 

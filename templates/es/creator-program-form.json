@@ -1,0 +1,43 @@
+{
+  "title": "Programa de creadores",
+  "language": "es",
+  "source": "https://toscio.com/es/casos-de-uso/programa-de-creadores/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Tu nombre de creador",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Enlace a tu canal principal",
+      "description": "Twitch, YouTube, TikTok… el enlace directo a tu canal.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Seguidores o espectadores promedio",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "¿Cada cuánto publicas?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "¿Qué contenido harías con nosotros?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Tus otras redes sociales",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "¿Por qué este programa?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

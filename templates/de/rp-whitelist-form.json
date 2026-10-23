@@ -1,0 +1,45 @@
+{
+  "title": "RP-Whitelist",
+  "language": "de",
+  "source": "https://toscio.com/de/anwendungsfaelle/fivem-whitelist/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Dein Alter (OOC)",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Vor- und Nachname deines Charakters",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Deine RP-Erfahrung",
+      "description": "Auf welchen Servern du gespielt hast, wie lange und dein Spielstil.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Die Hintergrundgeschichte deines Charakters",
+      "description": "Seine Vergangenheit und seine Ziele in der Stadt.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Was bedeuten RDM und NLR?",
+      "description": "Zeig uns, dass du die Grundregeln kennst.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Wann hast du Zeit?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Wie hast du den Server gefunden?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

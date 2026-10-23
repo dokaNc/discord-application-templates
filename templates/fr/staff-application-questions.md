@@ -1,6 +1,6 @@
 # Candidature staff Discord : 58 questions à copier-coller
 
-58 questions pour ta candidature staff Discord, classées par thème : mises en situation, signaux d’alerte et un modèle de candidature modérateur en 5 questions.
+58 questions de candidature staff Discord par thème : mises en situation, signaux d’alerte, quiz noté du règlement et modèle modérateur en 5 questions.
 
 Full guide, with tips and examples: https://toscio.com/fr/guides/questions-candidature-staff-discord/?utm_source=github&utm_medium=templates
 

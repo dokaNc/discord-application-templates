@@ -1,0 +1,43 @@
+{
+  "title": "Набор в команду",
+  "language": "ru",
+  "source": "https://toscio.com/ru/zayavki/nabor-v-komandu/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Ник в игре и текущий ранг",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твоя роль или позиция",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твой возраст",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Когда ты можешь тренироваться?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твой соревновательный опыт",
+      "description": "Команды, турниры, результаты.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Ссылка на твой профиль (tracker, op.gg…)",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Почему наша команда?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

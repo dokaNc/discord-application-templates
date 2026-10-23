@@ -1,6 +1,6 @@
 # FiveM Whitelist Application Questions: 53 for GTA RP Servers
 
-53 FiveM whitelist application questions for GTA RP servers: backstory, RP rules like RDM and NLR, scenarios, plus red flags and a ready 5-question template.
+53 FiveM whitelist application questions for GTA RP servers: backstory, RP rules like RDM and NLR, scenarios, red flags and a ready 5-question template.
 
 Full guide, with tips and examples: https://toscio.com/guides/fivem-whitelist-application-questions/?utm_source=github&utm_medium=templates
 

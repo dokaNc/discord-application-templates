@@ -1,0 +1,45 @@
+{
+  "title": "Bêta-testeurs",
+  "language": "fr",
+  "source": "https://toscio.com/fr/cas-usage/recrutement-beta-testeurs/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Ta plateforme",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Ta configuration ou ton appareil",
+      "description": "Processeur, carte graphique, modèle de téléphone…",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Heures de test par semaine",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Ton expérience de test",
+      "description": "Bêtas passées, rapports de bugs, jeux similaires.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Pourquoi veux-tu tester ?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Ta langue principale",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Lien vers un retour déjà écrit",
+      "description": "Facultatif : un rapport de bug ou un avis que tu as rédigé.",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

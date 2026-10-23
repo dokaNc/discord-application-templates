@@ -1,0 +1,45 @@
+{
+  "title": "Guild recruitment",
+  "language": "en",
+  "source": "https://toscio.com/use-cases/guild-recruitment/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Your in-game character",
+      "description": "Name and server (or world).",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your class or role",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your level or gear score",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your experience",
+      "description": "Past guilds, content cleared (raids, dungeons, PvP).",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "When are you available?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Why our guild?",
+      "type": "long text",
+      "required": false
+    },
+    {
+      "label": "Link to your logs or profile",
+      "description": "Optional: raid logs, armory, profile page…",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Entbannungsantrag Vorlage: Fragen, Beispiel, Antworten",
+  "language": "de",
+  "source": "https://toscio.com/de/ratgeber/entbannungsantrag-vorlage-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Die Vorlage mit 5 Fragen",
+      "items": [
+        "Warum wurdest du gebannt?",
+        "Warum sollten wir deinen Bann aufheben?",
+        "Was wird sich ändern?",
+        "Wann wurdest du gebannt?",
+        "Sonst noch etwas?"
+      ]
+    },
+    {
+      "title": "Weitere Fragen für den Entbannungsantrag",
+      "items": [
+        "Wie lautet dein Discord-Benutzername?",
+        "Welcher Moderator hat dich gebannt, falls du es weißt?",
+        "Welchen Bann-Grund hast du bekommen?",
+        "Findest du den Bann fair? Warum, warum nicht?",
+        "Wurdest du auf diesem Server schon verwarnt, gemutet oder gebannt?",
+        "Gegen welche Regel hast du deiner Meinung nach verstoßen?",
+        "Wie hättest du als Moderator auf das reagiert, was du getan hast?",
+        "Möchtest du den Beteiligten etwas sagen?",
+        "Warum willst du auf diesen Server zurück?",
+        "Bist du seit dem Bann mit einem anderen Konto auf den Server gekommen?",
+        "Was machst du anders, wenn die gleiche Situation wieder passiert?",
+        "Wärst du bereit, mit eingeschränkten Rechten neu zu starten?",
+        "Gibt es Kontext, den wir übersehen haben könnten, etwa Screenshots?",
+        "Hast du die Serverregeln seit dem Bann noch einmal gelesen?",
+        "Wie können wir dich wegen dieses Antrags erreichen?"
+      ]
+    }
+  ]
+}

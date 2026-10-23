@@ -1,0 +1,44 @@
+{
+  "title": "Recrutamento de unidade MilSim",
+  "language": "pt-BR",
+  "source": "https://toscio.com/pt/casos-de-uso/recrutamento-milsim/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Seu nick no jogo",
+      "description": "Do jeito que vai aparecer no servidor.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Sua idade",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Seu fuso horário",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Sua experiência com MilSim",
+      "description": "Unidades anteriores, jogos, funções que você teve.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Sua disponibilidade para operações",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "A função que você quer",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Você tem um microfone funcionando?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

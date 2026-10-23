@@ -1,0 +1,44 @@
+{
+  "title": "Набор в MilSim-подразделение",
+  "language": "ru",
+  "source": "https://toscio.com/ru/zayavki/nabor-milsim/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Твой ник в игре",
+      "description": "Так, как он будет отображаться на сервере.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твой возраст",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твой часовой пояс",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твой опыт в MilSim",
+      "description": "Прошлые подразделения, игры, роли, которые ты занимал.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Когда ты свободен для операций?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Роль, на которую ты претендуешь",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "У тебя есть рабочий микрофон?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

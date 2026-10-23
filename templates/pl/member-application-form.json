@@ -1,0 +1,42 @@
+{
+  "title": "Podanie o członkostwo",
+  "language": "pl",
+  "source": "https://toscio.com/pl/zastosowania/podania-o-czlonkostwo/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Twoje imię lub nick",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Twój wiek",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Przedstaw się w kilku zdaniach",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Dlaczego chcesz dołączyć?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Czy przeczytałeś i akceptujesz regulamin?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Skąd o nas wiesz?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Twoje zainteresowania",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

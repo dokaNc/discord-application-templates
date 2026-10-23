@@ -1,0 +1,45 @@
+{
+  "title": "Beta test kullanıcıları",
+  "language": "tr",
+  "source": "https://toscio.com/tr/kullanim-alanlari/beta-test-basvurusu/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Platformun",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Sistemin veya cihazın",
+      "description": "İşlemci, ekran kartı, telefon modeli…",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Haftalık test saatin",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Test deneyimin",
+      "description": "Önceki betalar, hata raporları, benzer oyunlar.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Neden test etmek istiyorsun?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Ana dilin",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Yazdığın bir geri bildirimin bağlantısı",
+      "description": "İsteğe bağlı: yazdığın bir hata raporu veya inceleme.",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

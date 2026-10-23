@@ -1,0 +1,67 @@
+{
+  "title": "Discord'da yeni üyeleri karşılamak: yerleşik araçlar, hoş geldin botları ve üye onayı",
+  "language": "tr",
+  "source": "https://toscio.com/tr/rehberler/discord-hos-geldin-botu/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Genel topluluk",
+      "items": [
+        "{server} sunucusuna hoş geldin, {user}! 👋",
+        "İşe #kurallar kanalını okuyarak başla, bir dakikanı alır.",
+        "İlgini çeken kanalları görmek için #roller kanalından rollerini seç.",
+        "#genel kanalında selam ver ve bizi nasıl bulduğunu anlat.",
+        "Sorun mu var? #yardım kanalına sor, biri cevap verecektir."
+      ]
+    },
+    {
+      "title": "Çalışma grubu ya da sınıf",
+      "items": [
+        "{server} sunucusuna hoş geldin, {user}! 📚",
+        "Önce #kurallar kanalını ve #buradan-başla kanalındaki sabitlenmiş mesajı oku.",
+        "Derslerini ya da sınıfını #roller kanalından seç.",
+        "Çalışma oturumları #etkinlikler kanalında duyurulur: istediğine katıl.",
+        "Bir yerde mi takıldın? Sorunu, daha önce neler denediğinle birlikte #yardım kanalına yaz."
+      ]
+    },
+    {
+      "title": "İçerik üretici topluluğu",
+      "items": [
+        "Selam {user}, {server} sunucusuna hoş geldin! 🎬",
+        "Yeni içerikler #duyurular kanalında paylaşılır: kaçırmamak için bildirimleri aç.",
+        "Kendi çalışmalarını #vitrin kanalında paylaş, başkalarına da geri bildirim ver.",
+        "Bağlantı paylaşmadan önce lütfen #kurallar kanalını oku.",
+        "İş birliği mi yapmak istiyorsun? #tanışma kanalında kendini tanıt."
+      ]
+    },
+    {
+      "title": "Espor takımı ya da rekabetçi topluluk",
+      "items": [
+        "{server} sunucusuna hoş geldin, {user}! 🏆",
+        "#kurallar kanalını oku, antrenmanlar ve maçlar için #takvim kanalına göz at.",
+        "Seviyendeki oyuncuları bulmak için oyununu ve rankını #roller kanalından seç.",
+        "Takım mı arıyorsun? #takım-arıyorum kanalına yaz.",
+        "Seçmeler #duyurular kanalında duyurulur."
+      ]
+    },
+    {
+      "title": "Oyun topluluğu",
+      "items": [
+        "{user} az önce {server} sunucusuna katıldı! 🎮",
+        "#kurallar kanalını oku, sonra oyun rollerini #roller kanalından al.",
+        "Birlikte oynayacak birilerini #takım-bul kanalında bul.",
+        "Sunucu etkinlikleri ve oyun geceleri #etkinlikler kanalında.",
+        "Bir sorunu ya da bir oyuncuyu #destek kanalına bildir."
+      ]
+    },
+    {
+      "title": "Destek ya da yardım topluluğu",
+      "items": [
+        "{server} sunucusuna hoş geldin, {user}! 💬",
+        "Sormadan önce #sss kanalında ara: cevapların çoğu zaten orada.",
+        "Sorunu olabildiğince ayrıntılı şekilde #yardım kanalına yaz.",
+        "Sabırlı ol: buradaki herkes boş zamanında yardım ediyor.",
+        "Lütfen #kurallar kanalını, özellikle etiketlemeyle ilgili kısmı oku."
+      ]
+    }
+  ]
+}

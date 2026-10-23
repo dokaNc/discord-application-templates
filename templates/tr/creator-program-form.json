@@ -1,0 +1,43 @@
+{
+  "title": "İçerik üretici programı",
+  "language": "tr",
+  "source": "https://toscio.com/tr/kullanim-alanlari/yayinci-basvurusu/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "İçerik üretici adın",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Ana kanalının bağlantısı",
+      "description": "Twitch, YouTube, TikTok… kanalının doğrudan bağlantısı.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Takipçi veya ortalama izleyici sayısı",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Ne sıklıkla paylaşım yapıyorsun?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Bizimle nasıl içerik üretirdin?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Diğer sosyal medya hesapların",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Neden bu program?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

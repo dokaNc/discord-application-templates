@@ -1,0 +1,43 @@
+{
+  "title": "Program twórców",
+  "language": "pl",
+  "source": "https://toscio.com/pl/zastosowania/program-tworcow/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Twoja nazwa twórcy",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Link do twojego głównego kanału",
+      "description": "Twitch, YouTube, TikTok… bezpośredni link do twojego kanału.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Obserwujący lub średnia widzów",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Jak często publikujesz?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Jakie treści tworzyłbyś z nami?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Twoje inne social media",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Dlaczego ten program?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

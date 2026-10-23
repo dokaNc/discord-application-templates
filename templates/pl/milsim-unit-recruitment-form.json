@@ -1,0 +1,44 @@
+{
+  "title": "Rekrutacja do jednostki MilSim",
+  "language": "pl",
+  "source": "https://toscio.com/pl/zastosowania/rekrutacja-milsim/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Twój nick w grze",
+      "description": "Tak, jak będzie widoczny na serwerze.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Twój wiek",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Twoja strefa czasowa",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Twoje doświadczenie w MilSim",
+      "description": "Poprzednie jednostki, gry, pełnione role.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Twoja dostępność na operacje",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Rola, do której aspirujesz",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Masz działający mikrofon?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

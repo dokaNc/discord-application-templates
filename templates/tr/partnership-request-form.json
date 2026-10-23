@@ -1,0 +1,45 @@
+{
+  "title": "Ortaklık başvurusu",
+  "language": "tr",
+  "source": "https://toscio.com/tr/kullanim-alanlari/partnerlik-basvurusu/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Sunucunun veya projenin adı",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Davet bağlantısı veya web sitesi",
+      "description": "Discord sunucuna veya web sitene kalıcı bir bağlantı.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Üye sayısı",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Sunucunu anlat",
+      "description": "Tema, kitle, aktiflik.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Ne teklif ediyorsun?",
+      "description": "Reklam takası, ortak etkinlik, partner kanalı…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "O sunucudaki rolün",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Başka bir şey var mı?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

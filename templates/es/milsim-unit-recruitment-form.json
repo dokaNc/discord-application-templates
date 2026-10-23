@@ -1,0 +1,44 @@
+{
+  "title": "Reclutamiento de unidad MilSim",
+  "language": "es",
+  "source": "https://toscio.com/es/casos-de-uso/reclutamiento-milsim/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Tu nombre en el juego",
+      "description": "Tal como aparecerá en el servidor.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu edad",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu zona horaria",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu experiencia en MilSim",
+      "description": "Unidades anteriores, juegos, roles que tuviste.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Tu disponibilidad para las operaciones",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "El rol al que aspiras",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "¿Tienes un micrófono que funcione?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

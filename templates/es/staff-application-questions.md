@@ -1,6 +1,6 @@
-# Preguntas para postulación de staff en Discord: 58 para copiar y pegar
+# Preguntas para postulación de staff Discord: 58 para copiar
 
-58 preguntas para la postulación de staff en tu Discord, por temas: casos prácticos de moderación, señales de alerta y una plantilla de 5 preguntas lista.
+58 preguntas para postulación de staff en Discord: casos de moderación, señales de alerta, un quiz con nota y una plantilla de 5 preguntas.
 
 Full guide, with tips and examples: https://toscio.com/es/guias/preguntas-postulacion-staff-discord/?utm_source=github&utm_medium=templates
 

@@ -1,0 +1,45 @@
+{
+  "title": "Partnership request",
+  "language": "en",
+  "source": "https://toscio.com/use-cases/partnership-requests/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Your server or project name",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Invite link or website",
+      "description": "A permanent link to your Discord server or your website.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Member count",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Describe your server",
+      "description": "Theme, audience, activity.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "What do you offer?",
+      "description": "Ad exchange, joint event, partner channel…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Your role on that server",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Anything else?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

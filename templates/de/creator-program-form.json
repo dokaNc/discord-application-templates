@@ -1,0 +1,43 @@
+{
+  "title": "Creator-Programm",
+  "language": "de",
+  "source": "https://toscio.com/de/anwendungsfaelle/creator-programm/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Dein Creator-Name",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Link zu deinem Hauptkanal",
+      "description": "Twitch, YouTube, TikTok… der direkte Link zu deinem Kanal.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Follower oder durchschnittliche Zuschauer",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Wie oft postest du?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Welchen Content würdest du mit uns machen?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Deine anderen Social-Media-Links",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Warum dieses Programm?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

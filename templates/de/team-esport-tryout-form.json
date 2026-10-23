@@ -1,0 +1,43 @@
+{
+  "title": "Team-Rekrutierung",
+  "language": "de",
+  "source": "https://toscio.com/de/anwendungsfaelle/esport-clan-bewerbung/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Ingame-Name und aktueller Rang",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Deine Rolle oder Position",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Dein Alter",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Wann kannst du trainieren?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Deine Wettkampferfahrung",
+      "description": "Teams, Turniere, Ergebnisse.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Link zu deinem Profil (Tracker, op.gg…)",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Warum unser Team?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

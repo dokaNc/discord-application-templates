@@ -1,6 +1,6 @@
 # Discord Server Rules Template: Rules to Copy & Paste
 
-Copy and paste Discord server rules: a short and a full rules template, moderator rules for your staff, voice chat and RP/FiveM rules, and rules channel setup.
+Copy and paste Discord server rules: a short and a full rules template, moderator and voice chat rules, a free rules generator and a rules channel setup.
 
 Full guide, with tips and examples: https://toscio.com/guides/discord-server-rules-template/?utm_source=github&utm_medium=templates
 

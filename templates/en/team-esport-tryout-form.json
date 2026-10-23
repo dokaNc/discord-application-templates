@@ -1,0 +1,43 @@
+{
+  "title": "Team recruitment",
+  "language": "en",
+  "source": "https://toscio.com/use-cases/team-recruitment/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "In-game name and current rank",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your role or position",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your age",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "When can you practice?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your competitive experience",
+      "description": "Teams, tournaments, results.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Link to your profile (tracker, op.gg…)",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Why our team?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

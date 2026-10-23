@@ -1,0 +1,43 @@
+{
+  "title": "Программа для авторов",
+  "language": "ru",
+  "source": "https://toscio.com/ru/zayavki/media-programma/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Твой псевдоним автора",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Ссылка на твой основной канал",
+      "description": "Twitch, YouTube, TikTok… прямая ссылка на твой канал.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Подписчики или средний онлайн",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Как часто ты публикуешь контент?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Какой контент ты сделал бы с нами?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Твои другие соцсети",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Почему эта программа?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

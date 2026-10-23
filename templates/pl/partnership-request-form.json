@@ -1,0 +1,45 @@
+{
+  "title": "Prośba o partnerstwo",
+  "language": "pl",
+  "source": "https://toscio.com/pl/zastosowania/partnerstwa-discord/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Nazwa twojego serwera lub projektu",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Link z zaproszeniem lub strona",
+      "description": "Stały link do twojego serwera Discord lub twojej strony.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Liczba członków",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Opisz swój serwer",
+      "description": "Tematyka, odbiorcy, aktywność.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Co proponujesz?",
+      "description": "Wymiana reklam, wspólny event, kanał partnerski…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Twoja rola na tym serwerze",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Coś jeszcze?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

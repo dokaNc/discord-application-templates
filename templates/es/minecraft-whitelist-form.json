@@ -1,0 +1,44 @@
+{
+  "title": "Whitelist Minecraft",
+  "language": "es",
+  "source": "https://toscio.com/es/casos-de-uso/whitelist-minecraft/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Tu nombre de usuario de Minecraft",
+      "description": "Exactamente como en el juego, mayúsculas incluidas.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "¿Java o Bedrock?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu edad",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "¿Por qué quieres unirte?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "¿Qué harás en el servidor?",
+      "description": "Construir, redstone, comerciar, explorar…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Servidores en los que jugaste antes",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "¿Cómo conociste el servidor?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

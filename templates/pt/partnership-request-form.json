@@ -1,0 +1,45 @@
+{
+  "title": "Pedido de parceria",
+  "language": "pt-BR",
+  "source": "https://toscio.com/pt/casos-de-uso/pedido-de-parceria/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Nome do seu servidor ou projeto",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Link de convite ou site",
+      "description": "Um link permanente para o seu servidor do Discord ou o seu site.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Número de membros",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Descreva seu servidor",
+      "description": "Tema, público, atividade.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "O que você oferece?",
+      "description": "Troca de divulgação, evento em conjunto, canal de parceiros…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Seu cargo nesse servidor",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Algo mais?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

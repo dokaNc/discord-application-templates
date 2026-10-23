@@ -1,0 +1,37 @@
+{
+  "title": "Discord Ban İtiraz Şablonu: Sorular, Örnekler ve Cevaplar",
+  "language": "tr",
+  "source": "https://toscio.com/tr/rehberler/discord-ban-itiraz-formu-sablonu/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "5 soruluk ban itiraz şablonu",
+      "items": [
+        "Neden banlandın?",
+        "Banını neden kaldıralım?",
+        "Bundan sonra ne değişecek?",
+        "Ne zaman banlandın?",
+        "Eklemek istediğin bir şey var mı?"
+      ]
+    },
+    {
+      "title": "Aralarından seçebileceğin ek ban itirazı soruları",
+      "items": [
+        "Discord kullanıcı adın ne?",
+        "Biliyorsan seni hangi moderatör banladı?",
+        "Sana söylenen ban sebebi neydi?",
+        "Banın adil olduğunu düşünüyor musun? Neden?",
+        "Bu sunucuda daha önce uyarı, susturma ya da ban aldın mı?",
+        "Hangi kuralı çiğnediğini düşünüyorsun?",
+        "Moderatör sen olsaydın, yaptığın şeyi nasıl ele alırdın?",
+        "Olaya karışan kişilere söylemek istediğin bir şey var mı?",
+        "Bu sunucuya neden geri dönmek istiyorsun?",
+        "Banından beri sunucuya katılmak için başka bir hesap kullandın mı?",
+        "Aynı durum tekrar yaşanırsa neyi farklı yaparsın?",
+        "Sınırlı izinlerle yeniden başlamayı kabul eder misin?",
+        "Gözden kaçırmış olabileceğimiz bir bağlamı, örneğin ekran görüntülerini paylaşabilir misin?",
+        "Banından beri sunucu kurallarını yeniden okudun mu?",
+        "Bu itirazla ilgili sana nasıl ulaşabiliriz?"
+      ]
+    }
+  ]
+}

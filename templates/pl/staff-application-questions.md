@@ -1,6 +1,6 @@
-# Podanie na administrację Discord: 58 pytań do skopiowania
+# Podanie na administrację Discord: 58 pytań na moderatora
 
-58 pytań do podania na administrację i moderatora na Discordzie, pogrupowanych tematycznie: pytania sytuacyjne, czerwone flagi i gotowy wzór na 5 pytań.
+58 pytań do podania na administrację i admina na Discordzie: sytuacje z moderacji, dobre odpowiedzi, czerwone flagi, quiz z oceną i wzór na 5 pytań.
 
 Full guide, with tips and examples: https://toscio.com/pl/poradniki/pytania-podanie-na-administracje-discord/?utm_source=github&utm_medium=templates
 

@@ -1,0 +1,67 @@
+{
+  "title": "Accueillir les nouveaux membres sur Discord : outils intégrés, bots de bienvenue et validation des membres",
+  "language": "fr",
+  "source": "https://toscio.com/fr/guides/bot-bienvenue-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Communauté généraliste",
+      "items": [
+        "Bienvenue sur {server}, {user} ! 👋",
+        "Commence par lire #règles, ça prend une minute.",
+        "Choisis tes rôles dans #rôles pour voir les salons qui t’intéressent.",
+        "Dis bonjour dans #général et raconte-nous comment tu nous as trouvés.",
+        "Une question ? Pose-la dans #aide, quelqu’un te répondra."
+      ]
+    },
+    {
+      "title": "Groupe d’étude ou classe",
+      "items": [
+        "Bienvenue sur {server}, {user} ! 📚",
+        "Lis d’abord #règles et le message épinglé dans #commencer-ici.",
+        "Choisis tes matières ou ta classe dans #rôles.",
+        "Les sessions de révision sont annoncées dans #événements : rejoins celles que tu veux.",
+        "Bloqué sur un exercice ? Pose ta question dans #aide en disant ce que tu as déjà essayé."
+      ]
+    },
+    {
+      "title": "Communauté de créateur",
+      "items": [
+        "Salut {user}, bienvenue sur {server} ! 🎬",
+        "Les nouveaux contenus sont publiés dans #annonces : active les notifications pour ne rien rater.",
+        "Partage tes propres créations dans #vitrine et donne ton avis sur celles des autres.",
+        "Lis #règles avant de poster des liens, s’il te plaît.",
+        "Envie de collaborer ? Présente-toi dans #présentations."
+      ]
+    },
+    {
+      "title": "Équipe esport ou communauté compétitive",
+      "items": [
+        "Bienvenue sur {server}, {user} ! 🏆",
+        "Lis #règles et regarde #planning pour les entraînements et les matchs.",
+        "Indique ton jeu et ton rang dans #rôles pour trouver des joueurs de ton niveau.",
+        "Tu cherches une équipe ? Poste dans #recherche-équipe.",
+        "Les tryouts sont annoncés dans #annonces."
+      ]
+    },
+    {
+      "title": "Communauté gaming",
+      "items": [
+        "{user} vient d’arriver sur {server} ! 🎮",
+        "Lis #règles, puis prends tes rôles de jeux dans #rôles.",
+        "Trouve des gens avec qui jouer dans #lfg.",
+        "Les événements et les soirées jeux sont dans #événements.",
+        "Signale un problème ou un joueur dans #support."
+      ]
+    },
+    {
+      "title": "Communauté d’entraide ou de support",
+      "items": [
+        "Bienvenue sur {server}, {user} ! 💬",
+        "Avant de demander, cherche dans #faq : la plupart des réponses y sont déjà.",
+        "Pose ta question dans #aide avec le plus de détails possible.",
+        "Sois patient : ici, tout le monde aide sur son temps libre.",
+        "Lis #règles, surtout la partie sur les mentions."
+      ]
+    }
+  ]
+}

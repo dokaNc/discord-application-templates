@@ -1,6 +1,6 @@
 # Discord Teambewerbung: 58 Fragen zum Kopieren
 
-58 Fragen für die Discord-Teambewerbung, nach Themen sortiert: Szenarien für Mods und Supporter, Warnsignale und eine Vorlage mit 5 Fragen zum Kopieren.
+58 Fragen für die Discord-Teambewerbung: Szenarien für Mods und Supporter, gute Antworten, Warnsignale, Regel-Quiz und eine Vorlage mit 5 Fragen.
 
 Full guide, with tips and examples: https://toscio.com/de/ratgeber/discord-teambewerbung-fragen/?utm_source=github&utm_medium=templates
 

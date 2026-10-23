@@ -1,0 +1,44 @@
+{
+  "title": "MilSim unit recruitment",
+  "language": "en",
+  "source": "https://toscio.com/use-cases/milsim-unit-recruitment/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Your in-game name",
+      "description": "As it will appear on the server.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your age",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your time zone",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your MilSim experience",
+      "description": "Past units, games played, roles you held.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Your availability for operations",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "The role you are aiming for",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Do you have a working mic?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

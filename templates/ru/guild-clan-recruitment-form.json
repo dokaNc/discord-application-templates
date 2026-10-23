@@ -1,0 +1,45 @@
+{
+  "title": "Набор в гильдию",
+  "language": "ru",
+  "source": "https://toscio.com/ru/zayavki/nabor-v-gildiyu/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Твой персонаж в игре",
+      "description": "Имя и сервер (или мир).",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твой класс или роль",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твой уровень или гирскор",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твой опыт",
+      "description": "Прошлые гильдии, пройденный контент (рейды, подземелья, PvP).",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Когда ты свободен?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Почему наша гильдия?",
+      "type": "long text",
+      "required": false
+    },
+    {
+      "label": "Ссылка на твои логи или профиль",
+      "description": "Необязательно: логи рейдов, оружейная, страница профиля…",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Beta testers",
+  "language": "en",
+  "source": "https://toscio.com/use-cases/beta-tester-applications/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Your platform",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your setup or device",
+      "description": "CPU, graphics card, phone model…",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Testing hours per week",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your testing experience",
+      "description": "Past betas, bug reports, similar games.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Why do you want to test?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Your main language",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Link to feedback you wrote",
+      "description": "Optional: a bug report or review you wrote.",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

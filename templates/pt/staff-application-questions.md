@@ -1,6 +1,6 @@
 # Formulário de staff no Discord: 58 perguntas pra copiar e colar
 
-58 perguntas para formulário de staff no Discord, separadas por tema: situações reais, sinais de alerta e um modelo de 5 perguntas pra recrutar moderadores.
+58 perguntas para formulário de staff no Discord: situações reais, boas respostas, sinais de alerta, quiz de regras com nota e modelo de 5 perguntas.
 
 Full guide, with tips and examples: https://toscio.com/pt/guias/perguntas-formulario-staff-discord/?utm_source=github&utm_medium=templates
 

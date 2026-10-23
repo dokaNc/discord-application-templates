@@ -1,0 +1,44 @@
+{
+  "title": "Minecraft Whitelist",
+  "language": "tr",
+  "source": "https://toscio.com/tr/kullanim-alanlari/minecraft-whitelist/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Minecraft kullanıcı adın",
+      "description": "Oyundaki haliyle birebir, büyük harfler dahil.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Java mı, Bedrock mu?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Yaşın",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Neden katılmak istiyorsun?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Sunucuda ne yapacaksın?",
+      "description": "İnşa, redstone, ticaret, keşif…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Daha önce oynadığın sunucular",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Sunucuyu nereden duydun?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

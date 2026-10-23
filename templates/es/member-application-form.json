@@ -1,0 +1,42 @@
+{
+  "title": "Solicitud de miembro",
+  "language": "es",
+  "source": "https://toscio.com/es/casos-de-uso/solicitudes-de-miembros/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Tu nombre o apodo",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu edad",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Preséntate en unas líneas",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "¿Por qué quieres unirte?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "¿Leíste y aceptas las normas?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "¿Cómo nos encontraste?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Tus intereses",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

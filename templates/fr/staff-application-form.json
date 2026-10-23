@@ -1,0 +1,45 @@
+{
+  "title": "Recrutement staff",
+  "language": "fr",
+  "source": "https://toscio.com/fr/cas-usage/recrutement-staff/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Ton âge",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tes disponibilités",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Ton expérience de modération",
+      "description": "Serveurs, rôles occupés, outils utilisés.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Pourquoi toi ?",
+      "description": "Ce que tu apporterais à l'équipe.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Deux membres se disputent en public",
+      "description": "Que fais-tu, étape par étape ?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Ton fuseau horaire",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Autre chose à ajouter ?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

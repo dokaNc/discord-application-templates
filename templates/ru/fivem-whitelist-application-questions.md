@@ -1,6 +1,6 @@
 # Анкета на вайтлист GTA RP: 53 вопроса для сервера FiveM
 
-53 вопроса для анкеты на вайтлист GTA RP и FiveM: биография персонажа, правила ДМ, ДБ и NLR, RP-ситуации, тревожные звоночки и готовая анкета из 5 вопросов.
+53 вопроса для анкеты на вайтлист GTA RP и FiveM: биография, правила ДМ, ДБ и NLR, RP-ситуации, тревожные звоночки, обзвон и готовая анкета из 5 вопросов.
 
 Full guide, with tips and examples: https://toscio.com/ru/gaidy/anketa-na-vaitlist-gta-rp/?utm_source=github&utm_medium=templates
 

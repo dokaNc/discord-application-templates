@@ -1,0 +1,43 @@
+{
+  "title": "Recrutamento de time",
+  "language": "pt-BR",
+  "source": "https://toscio.com/pt/casos-de-uso/recrutamento-esports/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Nick no jogo e elo atual",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Sua função ou posição",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Sua idade",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Quando você pode treinar?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Sua experiência competitiva",
+      "description": "Times, campeonatos, resultados.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Link do seu perfil (tracker, op.gg…)",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Por que o nosso time?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

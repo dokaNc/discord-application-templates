@@ -1,0 +1,67 @@
+{
+  "title": "How to welcome new members on Discord: built-in tools, welcome bots and member approval",
+  "language": "en",
+  "source": "https://toscio.com/guides/discord-welcome-bot/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "General community",
+      "items": [
+        "Welcome to {server}, {user}! 👋",
+        "Start by reading #rules, it takes one minute.",
+        "Pick your roles in #roles to see the channels that interest you.",
+        "Say hi in #general and tell us how you found us.",
+        "Questions? Ask in #help, someone will answer."
+      ]
+    },
+    {
+      "title": "Study group or class",
+      "items": [
+        "Welcome to {server}, {user}! 📚",
+        "Read #rules and the pinned message in #start-here first.",
+        "Pick your subjects or your class in #roles.",
+        "Study sessions are announced in #events: join any of them.",
+        "Stuck on something? Post your question in #help with what you already tried."
+      ]
+    },
+    {
+      "title": "Creator community",
+      "items": [
+        "Hey {user}, welcome to {server}! 🎬",
+        "New content is posted in #announcements: turn on notifications so you don't miss it.",
+        "Share your own work in #showcase and give feedback to others.",
+        "Please read #rules before posting links.",
+        "Want to collaborate? Introduce yourself in #introductions."
+      ]
+    },
+    {
+      "title": "Esports team or competitive community",
+      "items": [
+        "Welcome to {server}, {user}! 🏆",
+        "Read #rules and check #schedule for practices and matches.",
+        "Set your game and rank in #roles to find people at your level.",
+        "Looking for a team? Post in #looking-for-team.",
+        "Tryouts are announced in #announcements."
+      ]
+    },
+    {
+      "title": "Gaming community",
+      "items": [
+        "{user} just joined {server}! 🎮",
+        "Read #rules, then grab your game roles in #roles.",
+        "Find people to play with in #lfg.",
+        "Server events and game nights are in #events.",
+        "Report a problem or a player in #support."
+      ]
+    },
+    {
+      "title": "Support or help community",
+      "items": [
+        "Welcome to {server}, {user}! 💬",
+        "Before asking, search #faq: most answers are already there.",
+        "Post your question in #help with as much detail as you can.",
+        "Be patient: everyone here helps on their free time.",
+        "Please read #rules, especially the part about pinging."
+      ]
+    }
+  ]
+}

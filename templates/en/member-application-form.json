@@ -1,0 +1,42 @@
+{
+  "title": "Member application",
+  "language": "en",
+  "source": "https://toscio.com/use-cases/member-applications/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Your first name or nickname",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your age",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Introduce yourself in a few lines",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Why do you want to join?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Have you read and accepted the rules?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "How did you find us?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Your interests",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

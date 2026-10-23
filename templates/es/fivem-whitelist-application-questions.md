@@ -1,6 +1,6 @@
 # Preguntas para la whitelist de FiveM: 53 para servidores de rol GTA
 
-53 preguntas para la whitelist de tu servidor FiveM: historia del PJ, normas (RDM, MG, PG), casos prácticos, señales de alerta y una plantilla de 5 preguntas.
+53 preguntas para la whitelist FiveM: historia del PJ, normas (RDM, MG, PG), casos prácticos, señales de alerta y una plantilla de 5 preguntas.
 
 Full guide, with tips and examples: https://toscio.com/es/guias/preguntas-whitelist-fivem/?utm_source=github&utm_medium=templates
 

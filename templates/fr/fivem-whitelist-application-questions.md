@@ -1,6 +1,6 @@
 # Questions whitelist GTA RP : 53 questions pour ta WL FiveM
 
-53 questions whitelist GTA RP pour ta WL FiveM : HRP, background, FreeKill, NoFear, PowerGaming, mises en situation, signaux d’alerte et modèle en 5 questions.
+53 questions whitelist GTA RP pour ta WL FiveM : HRP, background, FreeKill, NoFear, mises en situation, quiz du règlement, douane et modèle en 5 questions.
 
 Full guide, with tips and examples: https://toscio.com/fr/guides/questions-whitelist-gta-rp/?utm_source=github&utm_medium=templates
 

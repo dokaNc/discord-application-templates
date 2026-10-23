@@ -1,0 +1,44 @@
+{
+  "title": "MilSim birlik alımı",
+  "language": "tr",
+  "source": "https://toscio.com/tr/kullanim-alanlari/milsim-birlik-alimi/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Oyun içi adın",
+      "description": "Sunucuda görüneceği şekilde.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Yaşın",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Saat dilimin",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "MilSim deneyimin",
+      "description": "Önceki birlikler, oynadığın oyunlar, üstlendiğin roller.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Operasyonlar için müsaitlik durumun",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Hedeflediğin rol",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Çalışan bir mikrofonun var mı?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

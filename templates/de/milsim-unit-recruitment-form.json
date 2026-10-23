@@ -1,0 +1,44 @@
+{
+  "title": "MilSim-Einheit: Rekrutierung",
+  "language": "de",
+  "source": "https://toscio.com/de/anwendungsfaelle/milsim-rekrutierung/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Dein Ingame-Name",
+      "description": "So, wie er auf dem Server erscheinen wird.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Dein Alter",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Deine Zeitzone",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Deine MilSim-Erfahrung",
+      "description": "Frühere Einheiten, gespielte Spiele, Rollen, die du hattest.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Deine Verfügbarkeit für Operationen",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Die Rolle, die du anstrebst",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Hast du ein funktionierendes Mikro?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

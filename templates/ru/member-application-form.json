@@ -1,0 +1,42 @@
+{
+  "title": "Заявка на вступление",
+  "language": "ru",
+  "source": "https://toscio.com/ru/zayavki/vstuplenie-na-server/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Твоё имя или ник",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Твой возраст",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Расскажи о себе в нескольких строках",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Почему ты хочешь к нам?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Ты прочитал и принимаешь правила?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Как ты нас нашёл?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Твои интересы",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

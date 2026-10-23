@@ -1,0 +1,94 @@
+{
+  "title": "Règlement serveur Discord : modèle à copier-coller",
+  "language": "fr",
+  "source": "https://toscio.com/fr/guides/modele-reglement-serveur-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Le règlement Discord à copier-coller : la version courte",
+      "items": [
+        "Respecte tout le monde. Pas d’insultes, de harcèlement ni d’attaques personnelles.",
+        "Pas de propos haineux, d’insultes discriminatoires ni de discrimination.",
+        "Pas de spam : pas de flood, de murs d’emojis ni de mentions en masse.",
+        "Pas de pub ni d’autopromo sans l’accord du staff, MP compris.",
+        "Poste dans le bon salon et reste dans le sujet.",
+        "Pas de contenu NSFW, gore ou choquant hors des salons réservés aux adultes.",
+        "Ne partage pas d’infos personnelles, ni sur les autres ni sur toi.",
+        "Ne te fais pas passer pour un membre, le staff ou un bot.",
+        "Respecte les conditions d’utilisation et les règles de la communauté Discord.",
+        "Écoute le staff. Si tu n’es pas d’accord avec une décision, écris-lui en privé."
+      ]
+    },
+    {
+      "title": "Le modèle de règlement complet",
+      "items": [
+        "Respecte tout le monde. Être en désaccord, oui ; attaquer la personne, non.",
+        "Pas de propos haineux, d’insultes ni de blagues visant l’origine, la religion, le genre, l’orientation sexuelle ou le handicap.",
+        "Pas de harcèlement, de menaces ni d’intimidation, sur le serveur comme en MP avec d’autres membres.",
+        "Pas de spam : flood, copypasta, majuscules, emojis ou mentions à outrance.",
+        "Ne mentionne pas le staff ou un rôle sans bonne raison.",
+        "Pas de pub : serveurs, réseaux sociaux, produits ou liens de parrainage, sauf accord du staff.",
+        "Utilise chaque salon pour ce à quoi il sert. Lis sa description avant de poster.",
+        "Écris en français dans les salons publics, sauf si un salon dit autre chose.",
+        "Pas de contenu NSFW, gore ou choquant, y compris dans les pseudos, avatars et statuts.",
+        "Pas de contenu illégal, de piratage, de triche ni de vente de comptes.",
+        "Pas d’arnaques, de liens d’hameçonnage ni de faux giveaways. Signale-les au staff.",
+        "Ne partage pas d’infos personnelles : vrais noms, adresses, photos ou comptes, les tiens ou ceux des autres.",
+        "Pas de doxxing, de raid ni d’attaque organisée contre d’autres serveurs.",
+        "Ne te fais pas passer pour un membre, le staff, un bot ou une personnalité.",
+        "Garde un pseudo lisible et correct.",
+        "Pas de double compte pour échapper à une sanction. Contourner un ban vaut un ban définitif.",
+        "Ne conteste pas une décision de modération en public. Contacte le staff en privé.",
+        "Respecte les conditions d’utilisation (discord.com/terms) et les règles de la communauté de Discord (discord.com/guidelines).",
+        "Le staff a le dernier mot, y compris sur les situations que ce règlement ne prévoit pas.",
+        "Le règlement peut changer. À toi de le relire de temps en temps."
+      ]
+    },
+    {
+      "title": "Les règles du vocal",
+      "items": [
+        "Respecte celui qui parle. Ne lui coupe pas la parole exprès.",
+        "Pas de bruits forts, de soundboard ni de musique à fond.",
+        "Utilise le push-to-talk si ton micro capte du bruit de fond.",
+        "Pas de modificateur de voix ni de soundboard, sauf si le salon l’autorise.",
+        "N’enregistre pas et ne streame pas les autres sans leur accord.",
+        "Ne saute pas de salon en salon pour perturber les discussions.",
+        "Les bots de musique restent dans les salons musique.",
+        "Les règles du texte valent aussi en vocal : pas de propos haineux, de harcèlement ni de NSFW."
+      ]
+    },
+    {
+      "title": "Le règlement des modérateurs",
+      "items": [
+        "Reste calme et poli, même quand le membre ne l’est pas.",
+        "Choisis l’action la plus légère qui règle le problème : un avertissement avant une exclusion temporaire, une exclusion avant un ban.",
+        "Note chaque avertissement, exclusion, kick et ban dans le salon de logs du staff, avec le motif.",
+        "Ne sanctionne jamais quelqu’un parce qu’il n’est pas d’accord avec toi, seulement s’il enfreint une règle.",
+        "Traite tes potes, les membres connus et les autres modos comme tout le monde.",
+        "Ne modère pas un conflit dont tu fais partie. Demande à un autre membre du staff.",
+        "Gère les contestations en privé, jamais dans un salon public.",
+        "Remonte à un admin quand tu as un doute, et avant tout ban définitif.",
+        "N’utilise tes permissions de staff que pour modérer.",
+        "Ne partage jamais les discussions, logs ou signalements du staff en dehors du staff.",
+        "Préviens l’équipe à l’avance quand tu as besoin d’une pause.",
+        "Reconnais tes erreurs. Si tu as sanctionné la mauvaise personne, corrige et excuse-toi."
+      ]
+    },
+    {
+      "title": "Le règlement d’un serveur RP ou FiveM",
+      "items": [
+        "Pas de FreeKill : n’attaque ou ne tue pas un joueur sans raison RP.",
+        "Pas de Carkill (VDM) : ne te sers pas d’un véhicule comme d’une arme sans raison RP.",
+        "Règle du coma (NLR) : après ta mort, oublie les événements qui y ont mené.",
+        "Pas de MetaGaming : n’utilise pas en jeu une info que ton personnage ne peut pas connaître (stream, Discord).",
+        "Pas de PowerGaming : n’impose pas d’action aux autres et ne fais rien d’impossible dans la vraie vie.",
+        "Pas de NoFear : ton personnage tient à sa vie quand il est menacé.",
+        "Pas de déco en scène : ne te déconnecte pas pour échapper à une scène.",
+        "Reste RP en jeu. Les discussions HRP vont dans les salons HRP.",
+        "Pas de ForceRP : ne force pas un joueur dans une scène ou une issue sans lui laisser le choix.",
+        "Pas d’exploitation de bugs, de mods ou de triche. Signale les bugs au staff.",
+        "Respecte les zones safe (hôpital, commissariat, spawn) fixées par le serveur.",
+        "Signale une faute avec un clip après la scène, pas au milieu."
+      ]
+    }
+  ]
+}

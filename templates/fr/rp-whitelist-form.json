@@ -1,0 +1,45 @@
+{
+  "title": "Whitelist RP",
+  "language": "fr",
+  "source": "https://toscio.com/fr/cas-usage/whitelist-fivem/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Ton âge (hors RP)",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Nom et prénom de ton personnage",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Ton expérience en RP",
+      "description": "Serveurs joués, depuis combien de temps, ton style de jeu.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "L'histoire de ton personnage",
+      "description": "Son passé, ses objectifs en ville.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Que signifient le FreeKill et le NoFear ?",
+      "description": "Montre-nous que tu connais les règles de base.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Tes disponibilités",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Comment as-tu connu le serveur ?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "RP Whitelist",
+  "language": "tr",
+  "source": "https://toscio.com/tr/kullanim-alanlari/fivem-whitelist/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Yaşın (OOC)",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Karakterinin adı ve soyadı",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "RP deneyimin",
+      "description": "Oynadığın sunucular, ne kadar süredir oynadığın, oyun tarzın.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Karakterinin hikâyesi",
+      "description": "Geçmişi ve şehirdeki hedefleri.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "RDM, VDM ve Metagaming ne demek?",
+      "description": "Temel kuralları bildiğini göster.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Ne zaman müsaitsin?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Sunucuyu nereden duydun?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

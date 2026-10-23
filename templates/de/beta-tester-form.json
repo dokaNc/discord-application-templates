@@ -1,0 +1,45 @@
+{
+  "title": "Betatester",
+  "language": "de",
+  "source": "https://toscio.com/de/anwendungsfaelle/betatester-bewerbung/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Deine Plattform",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Dein Setup oder Gerät",
+      "description": "CPU, Grafikkarte, Handymodell…",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Teststunden pro Woche",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Deine Testerfahrung",
+      "description": "Frühere Betas, Bugreports, ähnliche Spiele.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Warum willst du testen?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Deine Hauptsprache",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Link zu einem Feedback von dir",
+      "description": "Optional: ein Bugreport oder eine Rezension, die du geschrieben hast.",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Solicitud de alianza",
+  "language": "es",
+  "source": "https://toscio.com/es/casos-de-uso/solicitudes-de-alianza/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Nombre de tu servidor o proyecto",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Enlace de invitación o web",
+      "description": "Un enlace permanente a tu servidor de Discord o a tu web.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Número de miembros",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Describe tu servidor",
+      "description": "Temática, público, actividad.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "¿Qué ofreces?",
+      "description": "Intercambio de publicidad, evento conjunto, canal de aliados…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Tu rol en ese servidor",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "¿Algo más?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

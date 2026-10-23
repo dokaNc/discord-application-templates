@@ -1,0 +1,44 @@
+{
+  "title": "Minecraft-Whitelist",
+  "language": "de",
+  "source": "https://toscio.com/de/anwendungsfaelle/minecraft-whitelist/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Dein Minecraft-Name",
+      "description": "Genau wie im Spiel, inklusive Groß- und Kleinschreibung.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Java oder Bedrock?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Dein Alter",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Warum willst du beitreten?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Was willst du auf dem Server machen?",
+      "description": "Bauen, Redstone, Handeln, Erkunden…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Auf welchen Servern warst du schon?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Wie hast du den Server gefunden?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

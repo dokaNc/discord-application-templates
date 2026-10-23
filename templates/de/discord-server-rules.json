@@ -1,0 +1,94 @@
+{
+  "title": "Discord Regeln Vorlage: Serverregeln zum Kopieren",
+  "language": "de",
+  "source": "https://toscio.com/de/ratgeber/discord-regeln-vorlage/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Discord-Regeln zum Kopieren: die Kurzversion",
+      "items": [
+        "Sei respektvoll. Keine Beleidigungen, keine Belästigung, keine persönlichen Angriffe.",
+        "Keine Hassrede, keine Beschimpfungen, keine Diskriminierung jeglicher Art.",
+        "Kein Spam: keine Nachrichtenfluten, Emoji-Wände oder übermäßigen Pings.",
+        "Keine Werbung oder Eigenwerbung ohne Erlaubnis des Teams, auch nicht per DM.",
+        "Poste Inhalte im passenden Kanal und bleib beim Thema.",
+        "Keine NSFW-, Gore- oder Schockinhalte außerhalb altersbeschränkter Kanäle.",
+        "Teile keine persönlichen Daten, weder fremde noch deine eigenen.",
+        "Gib dich nicht als Mitglied, Teammitglied oder Bot aus.",
+        "Halte dich an die Nutzungsbedingungen und Community-Richtlinien von Discord.",
+        "Hör auf das Team. Bist du mit einer Entscheidung nicht einverstanden, schreib ihm privat."
+      ]
+    },
+    {
+      "title": "Ausführliche Vorlage für Serverregeln",
+      "items": [
+        "Sei respektvoll. Anderer Meinung zu sein ist okay, die Person anzugreifen nicht.",
+        "Keine Hassrede, Beschimpfungen oder Witze über Herkunft, Religion, Geschlecht, Sexualität oder Behinderung.",
+        "Keine Belästigung, Drohungen oder Mobbing, weder auf dem Server noch in DMs mit anderen Mitgliedern.",
+        "Kein Spam: Nachrichtenfluten, Copypasta, übermäßige Großschreibung, Emojis oder Erwähnungen.",
+        "Pinge das Team oder Rollen nicht ohne guten Grund.",
+        "Keine Werbung für Server, Social Media, Produkte oder Empfehlungslinks, außer das Team erlaubt es.",
+        "Nutze jeden Kanal für seinen Zweck. Lies die Kanalbeschreibung, bevor du postest.",
+        "Schreib in öffentlichen Kanälen auf Deutsch, außer ein Kanal sagt etwas anderes.",
+        "Keine NSFW-, Gore- oder Schockinhalte, auch nicht in Namen, Avataren und Status.",
+        "Keine illegalen Inhalte, Raubkopien, Cheats oder Account-Verkäufe.",
+        "Keine Betrugsversuche, Phishing-Links oder Fake-Gewinnspiele. Melde sie dem Team.",
+        "Teile keine persönlichen Daten: Klarnamen, Adressen, Fotos oder Konten, deine oder die anderer.",
+        "Kein Doxxing, kein Raiden, keine organisierten Angriffe auf andere Server.",
+        "Gib dich nicht als Mitglied, Teammitglied, Bot oder bekannte Person aus.",
+        "Halte Benutzer- und Spitznamen lesbar und angemessen.",
+        "Keine Zweitaccounts, um einer Strafe auszuweichen. Bann-Umgehung führt zu einem permanenten Bann.",
+        "Diskutier Moderationsentscheidungen nicht öffentlich. Wende dich privat an das Team.",
+        "Halte dich an die Nutzungsbedingungen (discord.com/terms) und Community-Richtlinien (discord.com/guidelines) von Discord.",
+        "Das Team hat das letzte Wort, auch bei Situationen, die diese Regeln nicht aufführen.",
+        "Die Regeln können sich ändern. Schau selbst ab und zu nach."
+      ]
+    },
+    {
+      "title": "Regeln für den Voice-Chat",
+      "items": [
+        "Respektiere, wer gerade spricht. Red nicht dazwischen und unterbrich nicht absichtlich.",
+        "Kein Earrape: keine lauten Geräusche, Soundboards oder Musik in hoher Lautstärke.",
+        "Nutz Push-to-Talk, wenn dein Mikrofon Hintergrundgeräusche aufnimmt.",
+        "Keine Stimmverzerrer oder Soundboards, außer der Kanal erlaubt es.",
+        "Nimm andere nicht ohne ihr Einverständnis auf und streame sie nicht.",
+        "Spring nicht zwischen Kanälen hin und her, um Gespräche zu stören.",
+        "Musik-Bots bleiben in den Musikkanälen.",
+        "Im Voice gelten dieselben Regeln wie im Text: keine Hassrede, keine Belästigung, kein NSFW."
+      ]
+    },
+    {
+      "title": "Discord-Regeln für Moderatoren und dein Team",
+      "items": [
+        "Bleib ruhig und höflich, auch wenn ein Mitglied es nicht ist.",
+        "Nimm die mildeste Maßnahme, die das Problem löst: Verwarnung vor Timeout, Timeout vor Bann.",
+        "Trag jede Verwarnung, jeden Timeout, Kick und Bann mit Grund ins Team-Log ein.",
+        "Bestraf nie jemanden, weil er dir widerspricht, nur für einen Regelverstoß.",
+        "Behandle Freunde, beliebte Mitglieder und andere Teammitglieder wie alle anderen.",
+        "Moderier keinen Konflikt, an dem du selbst beteiligt bist. Bitte ein anderes Teammitglied.",
+        "Kläre Diskussionen über Entscheidungen privat, nie in öffentlichen Kanälen.",
+        "Gib an einen Admin ab, wenn du unsicher bist, und vor jedem permanenten Bann.",
+        "Nutz deine Team-Rechte nur zum Moderieren.",
+        "Teile nie Team-Gespräche, Logs oder Reports außerhalb des Teams.",
+        "Sag dem Team vorher Bescheid, wenn du eine Pause brauchst.",
+        "Steh zu Fehlern. Hast du die falsche Person bestraft, korrigier es und entschuldige dich."
+      ]
+    },
+    {
+      "title": "Serverregeln für Roleplay und FiveM",
+      "items": [
+        "Kein RDM (Random Deathmatch): Greif keinen anderen Spieler ohne RP-Grund an und töte ihn nicht.",
+        "Kein VDM (Vehicle Deathmatch): Benutz kein Fahrzeug ohne RP-Grund als Waffe.",
+        "NLR (New Life Rule): Nachdem dein Charakter niedergestreckt wurde und respawnt, vergisst er, was dazu geführt hat.",
+        "Kein Metagaming: Nutz keine Infos, die dein Charakter nicht haben kann, etwa aus einem Stream oder aus Discord.",
+        "Kein Powergaming: Zwing anderen keine Aktionen auf und tu nichts, was im echten Leben unmöglich wäre.",
+        "Value your life (Fear RP): Verhalte dich bei einer Bedrohung so, als wäre dir das Leben deines Charakters etwas wert.",
+        "Kein Combat Logging: Trenn nicht die Verbindung und geh nicht, um einer RP-Situation auszuweichen.",
+        "Bleib im Spiel in deiner Rolle. OOC-Gespräche gehören in die OOC-Kanäle.",
+        "Kein Fail RP: Brich die Immersion nicht durch Verhalten, das dein Charakter nicht hätte.",
+        "Kein Ausnutzen von Bugs, Mods oder Cheats. Melde Bugs dem Team.",
+        "Respektiere die vom Server festgelegten Safezones (Krankenhaus, Polizeiwache, Spawn).",
+        "Melde Regelverstöße mit einem Clip nach der Szene, nicht mittendrin."
+      ]
+    }
+  ]
+}

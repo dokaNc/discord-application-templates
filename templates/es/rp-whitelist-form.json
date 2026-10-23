@@ -1,0 +1,45 @@
+{
+  "title": "Whitelist RP",
+  "language": "es",
+  "source": "https://toscio.com/es/casos-de-uso/whitelist-fivem/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Tu edad (OOC)",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Nombre y apellido de tu PJ",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu experiencia en rol",
+      "description": "Servidores en los que jugaste, cuánto tiempo y tu estilo de juego.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "La historia de tu personaje",
+      "description": "Su pasado y sus objetivos en la ciudad.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "¿Qué significan MG, PG y RDM?",
+      "description": "Demuéstranos que conoces las normas básicas.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "¿Cuándo tienes disponibilidad?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "¿Cómo conociste el servidor?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

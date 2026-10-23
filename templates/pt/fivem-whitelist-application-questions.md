@@ -1,6 +1,6 @@
 # Perguntas de whitelist FiveM: 53 pra sua cidade GTA RP
 
-53 perguntas de whitelist FiveM pra sua cidade GTA RP: história do personagem, RDM, VDM, amor à vida, situações IC, sinais de alerta e um modelo de 5 perguntas.
+53 perguntas de whitelist GTA RP pra sua cidade FiveM: história, RDM, VDM, amor à vida, situações IC, sinais de alerta e um modelo de 5 perguntas.
 
 Full guide, with tips and examples: https://toscio.com/pt/guias/perguntas-whitelist-fivem-gta-rp/?utm_source=github&utm_medium=templates
 

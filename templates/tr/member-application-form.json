@@ -1,0 +1,42 @@
+{
+  "title": "Üyelik başvurusu",
+  "language": "tr",
+  "source": "https://toscio.com/tr/kullanim-alanlari/uye-basvurusu/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Adın veya takma adın",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Yaşın",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Birkaç satırla kendini tanıt",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Neden katılmak istiyorsun?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Kuralları okuyup kabul ettin mi?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Bizi nereden buldun?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "İlgi alanların",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

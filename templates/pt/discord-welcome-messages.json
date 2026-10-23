@@ -1,0 +1,67 @@
+{
+  "title": "Como dar boas-vindas aos novos membros no Discord: recursos nativos, bots de boas-vindas e aprovação de membros",
+  "language": "pt-BR",
+  "source": "https://toscio.com/pt/guias/bot-boas-vindas-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Comunidade geral",
+      "items": [
+        "Boas-vindas ao {server}, {user}! 👋",
+        "Comece lendo as #regras, leva um minuto.",
+        "Escolha os seus cargos em #cargos para ver os canais que te interessam.",
+        "Dê um oi no #geral e conte pra gente como você nos encontrou.",
+        "Dúvidas? Pergunte no #ajuda, alguém vai responder."
+      ]
+    },
+    {
+      "title": "Grupo de estudos ou turma",
+      "items": [
+        "Boas-vindas ao {server}, {user}! 📚",
+        "Leia primeiro as #regras e a mensagem fixada em #comece-aqui.",
+        "Escolha as suas matérias ou a sua turma em #cargos.",
+        "As sessões de estudo são anunciadas em #eventos: participe de qualquer uma.",
+        "Travou em alguma coisa? Poste a sua dúvida no #ajuda com o que você já tentou."
+      ]
+    },
+    {
+      "title": "Comunidade de criador",
+      "items": [
+        "E aí, {user}, boas-vindas ao {server}! 🎬",
+        "Conteúdo novo sai em #anúncios: ative as notificações para não perder nada.",
+        "Compartilhe os seus trabalhos em #vitrine e dê feedback para os outros.",
+        "Leia as #regras antes de postar links, por favor.",
+        "Quer colaborar? Se apresente em #apresentações."
+      ]
+    },
+    {
+      "title": "Time de esports ou comunidade competitiva",
+      "items": [
+        "Boas-vindas ao {server}, {user}! 🏆",
+        "Leia as #regras e confira a #agenda para treinos e partidas.",
+        "Coloque o seu jogo e o seu elo em #cargos para achar gente do seu nível.",
+        "Procurando time? Poste em #procurando-time.",
+        "As seletivas são anunciadas em #anúncios."
+      ]
+    },
+    {
+      "title": "Comunidade de jogos",
+      "items": [
+        "{user} acabou de chegar no {server}! 🎮",
+        "Leia as #regras e depois pegue os cargos dos seus jogos em #cargos.",
+        "Ache gente para jogar junto em #procurando-grupo.",
+        "Eventos do servidor e noites de jogatina ficam em #eventos.",
+        "Denuncie um problema ou um jogador em #suporte."
+      ]
+    },
+    {
+      "title": "Comunidade de ajuda ou suporte",
+      "items": [
+        "Boas-vindas ao {server}, {user}! 💬",
+        "Antes de perguntar, procure no #faq: a maioria das respostas já está lá.",
+        "Poste a sua dúvida no #ajuda com o máximo de detalhes que puder.",
+        "Tenha paciência: todo mundo aqui ajuda no tempo livre.",
+        "Leia as #regras, principalmente a parte sobre pings."
+      ]
+    }
+  ]
+}

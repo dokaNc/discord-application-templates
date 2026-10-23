@@ -1,0 +1,42 @@
+{
+  "title": "Mitgliedsbewerbung",
+  "language": "de",
+  "source": "https://toscio.com/de/anwendungsfaelle/mitgliedsbewerbung/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Dein Vorname oder Spitzname",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Dein Alter",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Stell dich in ein paar Zeilen vor",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Warum willst du beitreten?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Hast du die Regeln gelesen und akzeptiert?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Wie hast du uns gefunden?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Deine Interessen",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

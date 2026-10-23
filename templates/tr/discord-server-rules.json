@@ -1,0 +1,94 @@
+{
+  "title": "Discord Sunucu Kuralları: Kopyala-Yapıştır Kural Şablonu",
+  "language": "tr",
+  "source": "https://toscio.com/tr/rehberler/discord-sunucu-kurallari-sablonu/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Kopyala-yapıştır Discord kuralları: kısa versiyon",
+      "items": [
+        "Saygılı ol. Hakaret, taciz ya da kişisel saldırı yok.",
+        "Hiçbir türde nefret söylemi, aşağılayıcı ifade ya da ayrımcılık yok.",
+        "Spam yok: mesaj seli, emoji duvarı ya da aşırı etiketleme yok.",
+        "Yetkili izni olmadan reklam ya da kendi tanıtımını yapmak yok, DM'ler dahil.",
+        "İçerikleri doğru kanallarda paylaş ve konunun dışına çıkma.",
+        "Yaş sınırlı kanallar dışında NSFW, vahşet ya da rahatsız edici içerik yok.",
+        "Kimsenin kişisel bilgilerini paylaşma, kendininkiler dahil.",
+        "Üyeleri, yetkilileri ya da botları taklit etmek yok.",
+        "Discord'un Hizmet Koşullarına ve Topluluk Kurallarına uy.",
+        "Yetkilileri dinle. Bir karara katılmıyorsan onlara özelden yaz."
+      ]
+    },
+    {
+      "title": "Tam Discord sunucu kuralları şablonu",
+      "items": [
+        "Saygılı ol. Fikir ayrılığı sorun değil, kişiye saldırmak sorun.",
+        "Irk, din, cinsiyet, cinsel yönelim ya da engelliliği hedef alan nefret söylemi, aşağılayıcı ifade ya da şaka yok.",
+        "Sunucuda ya da diğer üyelerle DM'de taciz, tehdit veya zorbalık yok.",
+        "Spam yok: mesaj seli, kopyala-yapıştır metinler, aşırı büyük harf, emoji ya da etiket.",
+        "Geçerli bir sebep olmadan yetkilileri ya da rolleri etiketleme.",
+        "Yetkililer izin vermedikçe reklam yok: sunucular, sosyal medya, ürünler ya da referans linkleri.",
+        "Her kanalı amacına göre kullan. Yazmadan önce kanal konusunu oku.",
+        "Bir kanal aksini söylemedikçe herkese açık kanallarda Türkçe kullan.",
+        "İsimler, avatarlar ve durum mesajları dahil NSFW, vahşet ya da rahatsız edici içerik yok.",
+        "Yasa dışı içerik, korsan, hile ya da hesap satışı yok.",
+        "Dolandırıcılık, oltalama linkleri ya da sahte çekilişler yok. Bunları yetkililere bildir.",
+        "Kişisel bilgi paylaşma: gerçek adlar, adresler, fotoğraflar ya da hesaplar; senin ya da başkasının.",
+        "İfşa (dox), raid ya da başka sunuculara saldırı organize etmek yok.",
+        "Üyeleri, yetkilileri, botları ya da tanınmış kişileri taklit etmek yok.",
+        "Kullanıcı adlarını ve takma adları okunabilir ve uygun tut.",
+        "Cezadan kaçmak için yan hesap yok. Ban kaçırmak kalıcı banla sonuçlanır.",
+        "Bir moderasyon kararını herkesin önünde tartışma. Yetkililere özelden ulaş.",
+        "Discord'un Hizmet Koşullarına (discord.com/terms) ve Topluluk Kurallarına (discord.com/guidelines) uy.",
+        "Bu kuralların kapsamadığı durumlar dahil son söz yetkililerindir.",
+        "Kurallar değişebilir. Onları zaman zaman kontrol etmek senin sorumluluğun."
+      ]
+    },
+    {
+      "title": "Ses kanalı kuralları",
+      "items": [
+        "Konuşan kişiye saygı göster. İnsanların sözünü kesme ya da üstüne konuşma.",
+        "Kulak tırmalayan sesler yok: yüksek sesler, ses efektleri ya da yüksek sesle müzik.",
+        "Mikrofonun arka plan sesi alıyorsa bas-konuş kullan.",
+        "Kanal izin vermedikçe ses değiştirici ya da ses efekti panosu yok.",
+        "Başkalarını izinleri olmadan kaydetme ya da yayınlama.",
+        "Sohbetleri bozmak için kanaldan kanala atlama.",
+        "Müzik botları müzik kanallarında kalır.",
+        "Metinde geçerli olan kurallar seste de geçerli: nefret söylemi, taciz ya da NSFW yok."
+      ]
+    },
+    {
+      "title": "Yetkililerin için Discord moderatör kuralları",
+      "items": [
+        "Bir üye sakin olmasa bile sakin ve kibar kal.",
+        "Sorunu çözen en hafif işlemi kullan: zaman aşımından önce uyarı, bandan önce zaman aşımı.",
+        "Her uyarıyı, zaman aşımını, atmayı ve banı sebebiyle birlikte yetkili kaydına yaz.",
+        "Kimseyi sana katılmadığı için değil, sadece bir kuralı çiğnediği için cezalandır.",
+        "Arkadaşlara, popüler üyelere ve diğer yetkililere herkese davrandığın gibi davran.",
+        "Taraf olduğun bir anlaşmazlığı modere etme. Başka bir yetkiliden iste.",
+        "Kararlarla ilgili tartışmaları özelde yürüt, asla herkese açık kanallarda değil.",
+        "Emin olmadığında ya da kalıcı bir bandan önce bir yöneticiye taşı.",
+        "Yetkili izinlerini moderasyon dışında hiçbir şey için kullanma.",
+        "Yetkili konuşmalarını, kayıtları ya da raporları asla ekip dışında paylaşma.",
+        "Ara vermen gerektiğinde ekibe önceden haber ver.",
+        "Hatalarını kabul et. Yanlış kişiyi cezalandırdıysan düzelt ve özür dile."
+      ]
+    },
+    {
+      "title": "Rol yapma (RP) ve FiveM sunucu kuralları",
+      "items": [
+        "RDM (random deathmatch) yok: RP sebebi olmadan başka bir oyuncuya saldırma ya da onu öldürme.",
+        "VDM (vehicle deathmatch) yok: RP sebebi olmadan aracı silah olarak kullanma.",
+        "NLR (new life rule): karakterin bayılıp yeniden doğduktan sonra buna yol açan olayları unut.",
+        "Metagaming (MG) yok: karakterinin bilemeyeceği bilgileri, örneğin bir yayından ya da Discord'dan öğrendiklerini kullanma.",
+        "Powergaming (PG) yok: başkalarına eylem dayatma ya da gerçek hayatta imkânsız şeyler yapma.",
+        "Hayatına değer ver (Fear RP): tehdit edildiğinde karakterinin hayatı önemliymiş gibi davran.",
+        "Combat logging yok: bir RP durumundan kaçmak için oyundan çıkma.",
+        "Oyunda karakterde kal. OOC konuşmaları OOC kanallarında tut.",
+        "Fail RP yok: karakterinin yapmayacağı davranışlarla atmosferi bozma.",
+        "Bug, mod ya da hile istismarı yok. Bugları yetkililere bildir.",
+        "Sunucunun belirlediği güvenli bölgelere (hastane, karakol, doğma noktası) saygı göster.",
+        "Kural ihlallerini sahnenin ortasında değil, sahneden sonra bir kliple bildir."
+      ]
+    }
+  ]
+}

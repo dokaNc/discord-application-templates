@@ -1,0 +1,43 @@
+{
+  "title": "Takım alımı",
+  "language": "tr",
+  "source": "https://toscio.com/tr/kullanim-alanlari/espor-takim-alimi/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Oyun içi adın ve mevcut rankın",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Rolün veya pozisyonun",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Yaşın",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Ne zaman antrenman yapabilirsin?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Rekabetçi deneyimin",
+      "description": "Takımlar, turnuvalar, sonuçlar.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Profil bağlantın (tracker, op.gg…)",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Neden bizim takımımız?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

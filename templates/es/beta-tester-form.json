@@ -1,0 +1,45 @@
+{
+  "title": "Beta testers",
+  "language": "es",
+  "source": "https://toscio.com/es/casos-de-uso/beta-testers/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Tu plataforma",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu equipo o dispositivo",
+      "description": "Procesador, tarjeta gráfica, modelo de teléfono…",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Horas de prueba por semana",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu experiencia como tester",
+      "description": "Betas anteriores, reportes de bugs, juegos similares.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "¿Por qué quieres probar?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Tu idioma principal",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Enlace a una opinión que escribiste",
+      "description": "Opcional: un reporte de bug o una reseña que escribiste.",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

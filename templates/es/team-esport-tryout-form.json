@@ -1,0 +1,43 @@
+{
+  "title": "Reclutamiento de equipo",
+  "language": "es",
+  "source": "https://toscio.com/es/casos-de-uso/reclutamiento-esports/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Nombre en el juego y rango actual",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu rol o posición",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu edad",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "¿Cuándo puedes entrenar?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Tu experiencia competitiva",
+      "description": "Equipos, torneos, resultados.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Enlace a tu perfil (tracker, op.gg…)",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "¿Por qué nuestro equipo?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

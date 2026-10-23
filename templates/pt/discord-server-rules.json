@@ -1,0 +1,94 @@
+{
+  "title": "Regras para servidor do Discord: modelo pra copiar e colar",
+  "language": "pt-BR",
+  "source": "https://toscio.com/pt/guias/regras-para-servidor-discord-modelo/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Regras do Discord pra copiar e colar: a versão curta",
+      "items": [
+        "Respeite todo mundo. Nada de xingamento, assédio ou ataque pessoal.",
+        "Nada de discurso de ódio, ofensas ou discriminação de qualquer tipo.",
+        "Nada de spam: flood de mensagens, parede de emojis ou marcação em excesso.",
+        "Nada de divulgação sem permissão da staff, inclusive na DM.",
+        "Poste no canal certo e fique no assunto.",
+        "Nada de conteúdo +18, gore ou chocante fora dos canais com restrição de idade.",
+        "Não compartilhe dados pessoais de ninguém, nem os seus.",
+        "Não se passe por membros, staff ou bots.",
+        "Siga os Termos de Serviço e as Diretrizes da Comunidade do Discord.",
+        "Ouça a staff. Se discordar de uma decisão, fale com ela no privado."
+      ]
+    },
+    {
+      "title": "Modelo completo de regras para servidor do Discord",
+      "items": [
+        "Respeite todo mundo. Discordar pode, atacar a pessoa não.",
+        "Nada de discurso de ódio, ofensas ou piadas sobre raça, religião, gênero, sexualidade ou deficiência.",
+        "Nada de assédio, ameaça ou bullying, no servidor ou na DM com outros membros.",
+        "Nada de spam: flood, copypasta, caps lock, emojis ou menções em excesso.",
+        "Não marque a staff ou cargos sem um bom motivo.",
+        "Nada de divulgação: servidores, redes sociais, produtos ou links de indicação, a não ser que a staff deixe.",
+        "Use cada canal para o que ele serve. Leia o tópico do canal antes de postar.",
+        "Use português nos canais públicos, a não ser que o canal diga outra coisa.",
+        "Nada de conteúdo +18, gore ou chocante, inclusive em nomes, avatares e status.",
+        "Nada de conteúdo ilegal, pirataria, hack ou venda de contas.",
+        "Nada de golpe, link de phishing ou sorteio falso. Denuncie para a staff.",
+        "Não compartilhe dados pessoais: nome real, endereço, fotos ou contas, seus ou de outra pessoa.",
+        "Nada de doxxing, raid ou ataques organizados contra outros servidores.",
+        "Não se passe por membros, staff, bots ou figuras públicas.",
+        "Mantenha nomes de usuário e apelidos legíveis e apropriados.",
+        "Nada de conta secundária pra fugir de punição. Burlar um ban leva a ban permanente.",
+        "Não discuta uma decisão da moderação em público. Fale com a staff no privado.",
+        "Siga os Termos de Serviço (discord.com/terms) e as Diretrizes da Comunidade (discord.com/guidelines) do Discord.",
+        "A staff tem a palavra final, inclusive em situações que estas regras não citam.",
+        "As regras podem mudar. Cabe a você conferir de vez em quando."
+      ]
+    },
+    {
+      "title": "Regras do canal de voz",
+      "items": [
+        "Respeite quem está falando. Não fale por cima nem interrompa de propósito.",
+        "Nada de estourar o áudio: barulhos altos, soundboard ou música no talo.",
+        "Use o pressionar para falar se o seu microfone pega barulho de fundo.",
+        "Nada de modificador de voz ou soundboard, a não ser que o canal permita.",
+        "Não grave nem transmita os outros sem o consentimento deles.",
+        "Não fique pulando de canal em canal pra atrapalhar as conversas.",
+        "Bots de música ficam nos canais de música.",
+        "As mesmas regras do texto valem na voz: nada de discurso de ódio, assédio ou conteúdo +18."
+      ]
+    },
+    {
+      "title": "Regras da staff para os seus moderadores",
+      "items": [
+        "Fique calmo e educado, mesmo quando o membro não está.",
+        "Use a ação mais leve que resolve o problema: advertência antes do castigo, castigo antes do ban.",
+        "Registre toda advertência, castigo, expulsão e ban no log da staff, com o motivo.",
+        "Nunca puna alguém por discordar de você, só por quebrar uma regra.",
+        "Trate amigos, membros populares e outros staffs como todo mundo.",
+        "Não modere um conflito em que você está envolvido. Chame outra pessoa da staff.",
+        "Resolva discussões sobre decisões no privado, nunca nos canais públicos.",
+        "Chame um admin quando tiver dúvida, ou antes de qualquer ban permanente.",
+        "Não use as permissões da staff para nada além da moderação.",
+        "Nunca compartilhe conversas, logs ou denúncias da staff fora da equipe.",
+        "Avise a equipe com antecedência quando precisar de uma pausa.",
+        "Admita os erros. Se puniu a pessoa errada, corrija e peça desculpa."
+      ]
+    },
+    {
+      "title": "Regras para servidor de roleplay e FiveM",
+      "items": [
+        "Nada de RDM (random deathmatch): não ataque nem mate outro jogador sem motivo no RP.",
+        "Nada de VDM (vehicle deathmatch): não use um veículo como arma sem motivo no RP.",
+        "NLR (regra da nova vida): depois que o seu personagem cai e renasce, esqueça o que levou a isso.",
+        "Nada de metagaming: não use informação que o seu personagem não teria, como uma live ou o Discord.",
+        "Nada de powergaming: não force ações nos outros nem faça coisas impossíveis na vida real.",
+        "Amor à vida (Fear RP): aja como se a vida do seu personagem importasse quando ele for ameaçado.",
+        "Nada de combat logging: não desconecte nem saia pra fugir de uma situação de RP.",
+        "Fique no personagem dentro do jogo. Deixe a conversa fora do personagem nos canais OOC.",
+        "Nada de fail RP: não quebre a imersão com atitudes que o seu personagem não teria.",
+        "Nada de explorar bugs, mods ou hack. Reporte os bugs para a staff.",
+        "Respeite as áreas seguras (hospital, delegacia, spawn) definidas pela cidade.",
+        "Denuncie quebras de regra com um clipe depois da cena, não no meio dela."
+      ]
+    }
+  ]
+}

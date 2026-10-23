@@ -1,0 +1,44 @@
+{
+  "title": "Whitelista Minecraft",
+  "language": "pl",
+  "source": "https://toscio.com/pl/zastosowania/whitelist-minecraft/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Twój nick w Minecraft",
+      "description": "Dokładnie tak jak w grze, z wielkimi literami.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Java czy Bedrock?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Twój wiek",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Dlaczego chcesz dołączyć?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Co będziesz robić na serwerze?",
+      "description": "Budowanie, redstone, handel, eksploracja…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Serwery, na których grałeś wcześniej",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Skąd wiesz o serwerze?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

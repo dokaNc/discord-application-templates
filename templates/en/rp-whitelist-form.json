@@ -1,0 +1,45 @@
+{
+  "title": "RP Whitelist",
+  "language": "en",
+  "source": "https://toscio.com/use-cases/fivem-whitelist/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Your age (out of character)",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your character's full name",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Your RP experience",
+      "description": "Servers you played on, for how long, your play style.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Your character's backstory",
+      "description": "Their past and their goals in the city.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "What do RDM and NLR mean?",
+      "description": "Show us you know the basic rules.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "When are you available?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "How did you find the server?",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

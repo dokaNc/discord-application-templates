@@ -1,0 +1,45 @@
+{
+  "title": "Demande de partenariat",
+  "language": "fr",
+  "source": "https://toscio.com/fr/cas-usage/demande-partenariat/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Nom de ton serveur ou projet",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Lien d'invitation ou site",
+      "description": "Un lien permanent vers ton serveur Discord ou ton site.",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Nombre de membres",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Présente ton serveur",
+      "description": "Thème, public, activité.",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Que proposes-tu ?",
+      "description": "Échange de publicités, événement commun, salon partenaire…",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Ton rôle sur ce serveur",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Autre chose à ajouter ?",
+      "type": "long text",
+      "required": false
+    }
+  ]
+}

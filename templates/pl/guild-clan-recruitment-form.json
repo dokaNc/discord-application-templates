@@ -1,0 +1,45 @@
+{
+  "title": "Rekrutacja do gildii",
+  "language": "pl",
+  "source": "https://toscio.com/pl/zastosowania/rekrutacja-gildia/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Twoja postać w grze",
+      "description": "Nazwa i serwer (lub świat).",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Twoja klasa lub rola",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Twój poziom lub gear score",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Twoje doświadczenie",
+      "description": "Poprzednie gildie, ukończona zawartość (rajdy, lochy, PvP).",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Kiedy masz czas?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Dlaczego nasza gildia?",
+      "type": "long text",
+      "required": false
+    },
+    {
+      "label": "Link do twoich logów lub profilu",
+      "description": "Opcjonalnie: logi z rajdów, armory, strona profilu…",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

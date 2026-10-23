@@ -1,6 +1,6 @@
 # FiveM Whitelist Soruları: GTA RP Sunucuları İçin 53 Soru
 
-GTA RP sunucuları için 53 FiveM whitelist başvuru sorusu: karakter hikâyesi, MG, PG ve RDM gibi RP kuralları, senaryolar, uyarı işaretleri ve 5 soruluk şablon.
+53 FiveM whitelist başvuru sorusu (GTA RP): karakter hikâyesi, MG, PG ve RDM gibi RP kuralları, senaryolar, sesli mülakat ve 5 soruluk şablon.
 
 Full guide, with tips and examples: https://toscio.com/tr/rehberler/fivem-whitelist-basvuru-sorulari/?utm_source=github&utm_medium=templates
 

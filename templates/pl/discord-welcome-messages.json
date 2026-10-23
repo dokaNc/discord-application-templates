@@ -1,0 +1,67 @@
+{
+  "title": "Jak witać nowych członków na Discordzie: wbudowane narzędzia, boty powitalne i zatwierdzanie członków",
+  "language": "pl",
+  "source": "https://toscio.com/pl/poradniki/bot-powitalny-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Społeczność ogólna",
+      "items": [
+        "Witaj na {server}, {user}! 👋",
+        "Zacznij od przeczytania #regulamin, to zajmie minutę.",
+        "Wybierz role na #role, żeby zobaczyć kanały, które cię interesują.",
+        "Przywitaj się na #ogólny i napisz, skąd o nas wiesz.",
+        "Masz pytanie? Zadaj je na #pomoc, ktoś na pewno odpowie."
+      ]
+    },
+    {
+      "title": "Grupa do nauki albo klasa",
+      "items": [
+        "Witaj na {server}, {user}! 📚",
+        "Najpierw przeczytaj #regulamin i przypiętą wiadomość na #zacznij-tutaj.",
+        "Wybierz swoje przedmioty albo klasę na #role.",
+        "Wspólne sesje nauki ogłaszamy na #wydarzenia: dołącz do dowolnej.",
+        "Utknąłeś? Wrzuć pytanie na #pomoc i napisz, co już próbowałeś zrobić."
+      ]
+    },
+    {
+      "title": "Społeczność twórcy",
+      "items": [
+        "Hej {user}, witaj na {server}! 🎬",
+        "Nowe materiały pojawiają się na #ogłoszenia: włącz powiadomienia, żeby nic cię nie ominęło.",
+        "Pokazuj swoje prace na #twórczość i dawaj innym feedback.",
+        "Zanim wrzucisz link, przeczytaj #regulamin.",
+        "Chcesz współpracować? Przedstaw się na #przedstaw-się."
+      ]
+    },
+    {
+      "title": "Drużyna esportowa albo społeczność rywalizacyjna",
+      "items": [
+        "Witaj na {server}, {user}! 🏆",
+        "Przeczytaj #regulamin i sprawdź #harmonogram, gdzie są treningi i mecze.",
+        "Ustaw swoją grę i rangę na #role, żeby znaleźć ludzi na swoim poziomie.",
+        "Szukasz drużyny? Napisz na #szukam-drużyny.",
+        "Nabory ogłaszamy na #ogłoszenia."
+      ]
+    },
+    {
+      "title": "Społeczność graczy",
+      "items": [
+        "{user} właśnie dołączył do {server}! 🎮",
+        "Przeczytaj #regulamin, a potem weź role gier na #role.",
+        "Ludzi do wspólnego grania znajdziesz na #lfg.",
+        "Eventy serwera i wieczory z grami są na #wydarzenia.",
+        "Problem albo gracza zgłoś na #zgłoszenia."
+      ]
+    },
+    {
+      "title": "Społeczność wsparcia albo pomocy",
+      "items": [
+        "Witaj na {server}, {user}! 💬",
+        "Zanim zapytasz, przeszukaj #faq: większość odpowiedzi już tam jest.",
+        "Zadaj pytanie na #pomoc, z jak największą liczbą szczegółów.",
+        "Bądź cierpliwy: wszyscy tutaj pomagają w wolnym czasie.",
+        "Przeczytaj #regulamin, zwłaszcza część o pingowaniu."
+      ]
+    }
+  ]
+}

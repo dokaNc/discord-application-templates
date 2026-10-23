@@ -1,6 +1,6 @@
-# Discord Staff & Mod Application Questions: 58 to Copy & Paste
+# Discord Staff Application Questions: 58 Mod Questions to Copy
 
-58 Discord staff and mod application questions to copy: moderator scenarios, what good answers look like, red flags and a 5-question template to use today.
+58 Discord staff application questions to copy: moderator scenarios, good answers, red flags, a graded rules quiz and a 5-question template to use today.
 
 Full guide, with tips and examples: https://toscio.com/guides/discord-staff-application-questions/?utm_source=github&utm_medium=templates
 

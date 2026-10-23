@@ -1,0 +1,37 @@
+{
+  "title": "Modèle de recours de ban Discord : questions, exemples et réponses",
+  "language": "fr",
+  "source": "https://toscio.com/fr/guides/modele-recours-ban-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Le modèle de recours de ban en 5 questions",
+      "items": [
+        "Pourquoi as-tu été banni ?",
+        "Pourquoi devrait-on lever ton ban ?",
+        "Qu’est-ce qui va changer ?",
+        "Quand as-tu été banni ?",
+        "Autre chose à ajouter ?"
+      ]
+    },
+    {
+      "title": "D’autres questions de recours au choix",
+      "items": [
+        "Quel est ton pseudo Discord ?",
+        "Quel modo t’a banni, si tu le sais ?",
+        "Quel motif de ban t’a été donné ?",
+        "Penses-tu que le ban était juste ? Pourquoi ?",
+        "As-tu déjà été averti, mute ou banni sur ce serveur ?",
+        "Quelle règle penses-tu avoir enfreinte ?",
+        "Si tu étais modo, comment aurais-tu géré ce que tu as fait ?",
+        "As-tu quelque chose à dire aux personnes concernées ?",
+        "Pourquoi veux-tu revenir sur ce serveur ?",
+        "As-tu utilisé un autre compte pour revenir sur le serveur depuis ton ban ?",
+        "Que ferais-tu autrement si la même situation se reproduisait ?",
+        "Es-tu prêt à revenir avec des permissions limitées ?",
+        "As-tu un contexte qu’on aurait pu manquer, comme des captures d’écran ?",
+        "As-tu relu le règlement du serveur depuis ton ban ?",
+        "Comment peut-on te joindre au sujet de ce recours ?"
+      ]
+    }
+  ]
+}

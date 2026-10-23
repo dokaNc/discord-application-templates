@@ -1,0 +1,42 @@
+{
+  "title": "Candidature membre",
+  "language": "fr",
+  "source": "https://toscio.com/fr/cas-usage/candidature-membre/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Ton prénom ou pseudo",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Ton âge",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Présente-toi en quelques lignes",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Pourquoi veux-tu nous rejoindre ?",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "As-tu lu et accepté le règlement ?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Comment nous as-tu trouvés ?",
+      "type": "short text",
+      "required": false
+    },
+    {
+      "label": "Tes centres d'intérêt",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

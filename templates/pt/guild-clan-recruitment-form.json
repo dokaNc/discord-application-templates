@@ -1,0 +1,45 @@
+{
+  "title": "Recrutamento de guilda",
+  "language": "pt-BR",
+  "source": "https://toscio.com/pt/casos-de-uso/recrutamento-guilda/?utm_source=github&utm_medium=templates",
+  "questions": [
+    {
+      "label": "Seu personagem no jogo",
+      "description": "Nome e servidor (ou mundo).",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Sua classe ou função",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Seu nível ou gear score",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Sua experiência",
+      "description": "Guildas anteriores, conteúdo concluído (raids, dungeons, PvP).",
+      "type": "long text",
+      "required": true
+    },
+    {
+      "label": "Quando você está disponível?",
+      "type": "short text",
+      "required": true
+    },
+    {
+      "label": "Por que a nossa guilda?",
+      "type": "long text",
+      "required": false
+    },
+    {
+      "label": "Link dos seus logs ou perfil",
+      "description": "Opcional: logs de raid, armory, página de perfil…",
+      "type": "short text",
+      "required": false
+    }
+  ]
+}

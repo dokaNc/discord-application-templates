@@ -1,6 +1,6 @@
 # Discord Yetkili Başvuru Soruları: Kopyala-Yapıştır 58 Soru
 
-Discord yetkili alımı için temalara ayrılmış 58 başvuru sorusu: senaryo soruları, dikkat edilecek uyarı işaretleri ve hemen kullanabileceğin 5 soruluk şablon.
+Kopyalanacak 58 Discord yetkili başvuru sorusu: moderatör senaryoları, iyi cevaplar, uyarı işaretleri, puanlı kural testi ve 5 soruluk hazır şablon.
 
 Full guide, with tips and examples: https://toscio.com/tr/rehberler/discord-yetkili-basvuru-sorulari/?utm_source=github&utm_medium=templates
 

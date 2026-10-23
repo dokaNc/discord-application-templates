@@ -1,0 +1,94 @@
+{
+  "title": "Regulamin serwera Discord: wzór do skopiowania",
+  "language": "pl",
+  "source": "https://toscio.com/pl/poradniki/regulamin-serwera-discord-wzor/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "Regulamin Discord do skopiowania: krótka wersja",
+      "items": [
+        "Szanuj innych. Zero obrażania, nękania i ataków osobistych.",
+        "Zero mowy nienawiści, wyzwisk i jakiejkolwiek dyskryminacji.",
+        "Zero spamu: żadnego zalewania wiadomościami, ścian emotek ani nadmiernych pingów.",
+        "Zero reklam i autopromocji bez zgody administracji, także w DM.",
+        "Treści wrzucaj na właściwe kanały i trzymaj się tematu.",
+        "Zero NSFW, gore i szokujących treści poza kanałami z ograniczeniem wiekowym.",
+        "Nie udostępniaj niczyich danych osobowych, także swoich.",
+        "Nie podszywaj się pod członków, administrację ani boty.",
+        "Przestrzegaj Warunków korzystania z usługi i Wytycznych dla społeczności Discorda.",
+        "Słuchaj administracji. Jeśli nie zgadzasz się z decyzją, napisz do niej prywatnie."
+      ]
+    },
+    {
+      "title": "Pełny wzór regulaminu serwera Discord",
+      "items": [
+        "Szanuj innych. Możesz się nie zgadzać, ale nie atakuj osoby.",
+        "Zero mowy nienawiści, wyzwisk i żartów o rasie, religii, płci, seksualności czy niepełnosprawności.",
+        "Zero nękania, gróźb i prześladowania, na serwerze i w DM z innymi członkami.",
+        "Zero spamu: zalewania wiadomościami, copypasty, nadmiaru caps locka, emotek i oznaczeń.",
+        "Nie pinguj administracji ani ról bez dobrego powodu.",
+        "Zero reklam: serwerów, social mediów, produktów i linków polecających, chyba że administracja się zgodzi.",
+        "Używaj kanałów zgodnie z ich przeznaczeniem. Przeczytaj temat kanału, zanim coś wrzucisz.",
+        "Na kanałach publicznych pisz po polsku, chyba że kanał mówi inaczej.",
+        "Zero NSFW, gore i szokujących treści, także w nickach, awatarach i statusach.",
+        "Zero nielegalnych treści, piractwa, cheatów i handlu kontami.",
+        "Zero scamów, linków phishingowych i fałszywych giveawayów. Zgłaszaj je administracji.",
+        "Nie udostępniaj danych osobowych: prawdziwych imion i nazwisk, adresów, zdjęć ani kont, swoich ani cudzych.",
+        "Zero doxxingu, raidów i organizowania ataków na inne serwery.",
+        "Nie podszywaj się pod członków, administrację, boty ani osoby publiczne.",
+        "Nicki i pseudonimy mają być czytelne i odpowiednie.",
+        "Zero multikont do omijania kar. Omijanie bana kończy się banem permanentnym.",
+        "Nie kłóć się publicznie o decyzje moderacji. Napisz do administracji prywatnie.",
+        "Przestrzegaj Warunków korzystania z usługi (discord.com/terms) i Wytycznych dla społeczności (discord.com/guidelines) Discorda.",
+        "Ostatnie słowo ma administracja, także w sytuacjach, których ten regulamin nie wymienia.",
+        "Regulamin może się zmieniać. Od czasu do czasu sprawdzaj go sam."
+      ]
+    },
+    {
+      "title": "Zasady na kanałach głosowych",
+      "items": [
+        "Szanuj osobę, która mówi. Nie przekrzykuj innych i nie przerywaj specjalnie.",
+        "Zero earrape’ów: głośnych dźwięków, soundboardów i muzyki na pełen regulator.",
+        "Używaj push-to-talk, jeśli twój mikrofon łapie dźwięki z tła.",
+        "Zero modulatorów głosu i soundboardów, chyba że kanał na to pozwala.",
+        "Nie nagrywaj ani nie streamuj innych bez ich zgody.",
+        "Nie skacz między kanałami, żeby przeszkadzać w rozmowach.",
+        "Boty muzyczne zostają na kanałach muzycznych.",
+        "Na głosowych obowiązują te same zasady co na tekstowych: zero mowy nienawiści, nękania i NSFW."
+      ]
+    },
+    {
+      "title": "Zasady dla moderatorów z twojej administracji",
+      "items": [
+        "Zachowaj spokój i kulturę, nawet gdy członek ich nie zachowuje.",
+        "Używaj najlżejszej kary, która rozwiązuje problem: warn przed timeoutem, timeout przed banem.",
+        "Zapisuj każdy warn, timeout, kick i ban w logach administracji, z powodem.",
+        "Nigdy nie karz nikogo za to, że się z tobą nie zgadza, tylko za złamanie zasady.",
+        "Traktuj znajomych, popularnych członków i innych z administracji jak wszystkich.",
+        "Nie moderuj konfliktu, w którym sam bierzesz udział. Poproś kogoś innego z administracji.",
+        "Kłótnie o decyzje załatwiaj prywatnie, nigdy na kanałach publicznych.",
+        "Przekaż sprawę adminowi, gdy nie masz pewności, i przed każdym banem permanentnym.",
+        "Nie używaj uprawnień administracji do niczego poza moderacją.",
+        "Nigdy nie wynoś rozmów, logów ani zgłoszeń administracji poza ekipę.",
+        "Uprzedź ekipę z wyprzedzeniem, gdy potrzebujesz przerwy.",
+        "Przyznawaj się do błędów. Jeśli ukarałeś nie tę osobę, napraw to i przeproś."
+      ]
+    },
+    {
+      "title": "Regulamin serwera RP i FiveM",
+      "items": [
+        "Zero RDM (random deathmatch): nie atakuj i nie zabijaj innego gracza bez powodu w RP.",
+        "Zero VDM (vehicle deathmatch): nie używaj pojazdu jako broni bez powodu w RP.",
+        "BW (NLR, new life rule): gdy twoja postać padnie i się odrodzi, zapomnij wydarzenia, które do tego doprowadziły.",
+        "Zero MG (metagaming): nie używaj informacji, których twoja postać nie mogłaby znać, np. ze streama albo z Discorda.",
+        "Zero PG (powergaming): nie wymuszaj akcji na innych i nie rób rzeczy niemożliwych w prawdziwym życiu.",
+        "Szanuj swoje życie (Fear RP): zachowuj się tak, jakby życie twojej postaci miało znaczenie, gdy ktoś jej grozi.",
+        "Zero combat logu: nie wychodź z gry, żeby uniknąć akcji RP.",
+        "W grze zostań w postaci. Rozmowy OOC trzymaj na kanałach OOC.",
+        "Zero fail RP: nie psuj immersji zachowaniem, którego twoja postać by nie miała.",
+        "Zero wykorzystywania bugów, modów i cheatów. Zgłaszaj bugi administracji.",
+        "Szanuj strefy bezpieczne (szpital, komenda, spawn) ustalone przez serwer.",
+        "Łamanie zasad zgłaszaj z klipem po akcji, a nie w jej trakcie."
+      ]
+    }
+  ]
+}

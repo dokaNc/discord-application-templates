@@ -1,0 +1,37 @@
+{
+  "title": "Modelo de apelação de ban no Discord: perguntas e respostas",
+  "language": "pt-BR",
+  "source": "https://toscio.com/pt/guias/modelo-apelacao-de-ban-discord/?utm_source=github&utm_medium=templates",
+  "sections": [
+    {
+      "title": "O modelo de apelação de ban em 5 perguntas",
+      "items": [
+        "Por que você foi banido?",
+        "Por que a gente deveria tirar seu ban?",
+        "O que vai mudar?",
+        "Quando você foi banido?",
+        "Mais alguma coisa?"
+      ]
+    },
+    {
+      "title": "Mais perguntas de apelação de ban pra escolher",
+      "items": [
+        "Qual é o seu nome de usuário no Discord?",
+        "Qual moderador te baniu, se você sabe?",
+        "Qual foi o motivo do ban que te informaram?",
+        "Você acha que o ban foi justo? Por quê?",
+        "Você já levou advertência, mute ou ban neste servidor antes?",
+        "Qual regra você acha que quebrou?",
+        "Se você fosse moderador, como teria lidado com o que você fez?",
+        "Quer dizer alguma coisa para as pessoas envolvidas?",
+        "Por que você quer voltar para este servidor?",
+        "Você usou outra conta para entrar no servidor depois do ban?",
+        "O que você vai fazer diferente se a mesma situação acontecer de novo?",
+        "Você aceita voltar com permissões limitadas?",
+        "Pode mandar algum contexto que a gente possa ter perdido, como prints?",
+        "Você leu as regras do servidor de novo depois do ban?",
+        "Como a gente fala com você sobre esta apelação?"
+      ]
+    }
+  ]
+}
